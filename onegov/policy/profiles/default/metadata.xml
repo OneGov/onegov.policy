@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<metadata>
+    <version>1000</version>
+    <dependencies>
+        <dependency>profile-simplelayout.base:default</dependency>
+        <dependency>profile-ftw.portletview:default</dependency>
+        <dependency>profile-ftw.workspace:default</dependency>
+        <dependency>profile-izug.ticketbox:default</dependency>
+        <dependency>profile-ftw.blog:default</dependency>
+        <dependency>profile-ftw.book:default</dependency>
+        <dependency>profile-ftw.task:default</dependency>
+        <dependency>profile-ftw.file:default</dependency>
+        <dependency>profile-ftw.poodle:default</dependency>
+        <dependency>profile-ftw.dashboard.dragndrop:default</dependency>
+        <dependency>profile-ftw.dashboard.portlets.postit:default</dependency>
+        <dependency>profile-ftw.dashboard.portlets.recentlymodified:default</dependency>
+        <dependency>profile-ftw.dashboard.portlets.favourites:default</dependency>
+        <dependency>profile-ftw.tagging:default</dependency>
+        <dependency>profile-ftw.contentmenu:default</dependency>
+        <dependency>profile-ftw.calendarwidget:default</dependency>
+        <dependency>profile-ftw.meeting:default</dependency>
+        <dependency>profile-ftw.billboard:default</dependency>
+        <dependency>profile-ftw.tabbedview:quickupload</dependency>
+        <dependency>profile-ftw.keywordoverlay:default</dependency>
+        <dependency>profile-ftw.notification.base:default</dependency>
+        <dependency>profile-ftw.mimetypes:default</dependency>
+        <dependency>profile-ftw.tooltip:default</dependency>
+        <dependency>profile-Products.PloneFormGen:default</dependency>
+        <dependency>profile-simplelayout.types.flowplayerblock:default</dependency>
+        <dependency>profile-simplelayout.types.news:default</dependency>
+        <dependency>profile-ftw.usermanagement:default</dependency>
+        <dependency>profile-ftw.permissionmanager:default</dependency>
+        <dependency>profile-ftw.upgrade:default</dependency>
+        <dependency>profile-ftw.tabbedview:extjs</dependency>
+    </dependencies>
+</metadata>

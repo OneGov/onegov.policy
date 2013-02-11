@@ -8,4 +8,12 @@
 
     <i18n:registerTranslations directory="locales" />
 
+    <genericsetup:registerProfile
+        name="default"
+        title="onegov.policy : default"
+        directory="profiles/default"
+        description=""
+        provides="Products.GenericSetup.interfaces.EXTENSION"
+        />
+
 </configure>
