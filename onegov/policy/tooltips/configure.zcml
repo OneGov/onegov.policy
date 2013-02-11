@@ -1,0 +1,13 @@
+<configure
+    xmlns="http://namespaces.zope.org/zope"
+    i18n_domain="onegov.policy">
+
+    <adapter
+        factory=".tabbedview.TabbedviewTooltipSource"
+        name="onegov_tabbedview_tooltip" />
+
+    <adapter
+        factory=".dashboard.DashboardTooltipSource"
+        name="onegov_dashboard_tooltip" />
+
+</configure>

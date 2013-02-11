@@ -8,6 +8,8 @@
 
     <i18n:registerTranslations directory="locales" />
 
+    <include package=".tooltips" />
+
     <genericsetup:registerProfile
         name="default"
         title="onegov.policy : default"

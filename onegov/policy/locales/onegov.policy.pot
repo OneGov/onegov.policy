@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2013-02-11 14:09+0000\n"
+"POT-Creation-Date: 2013-02-11 14:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,3 +16,74 @@ msgstr ""
 "Language-Name: English\n"
 "Preferred-Encodings: utf-8 latin1\n"
 "Domain: onegov.policy\n"
+
+#. Default: "Toggle portlet"
+#: ./onegov/policy/tooltips/dashboard.py:23
+msgid "text_dashboard_close"
+msgstr ""
+
+#. Default: "Edit portlet"
+#: ./onegov/policy/tooltips/dashboard.py:38
+msgid "text_dashboard_edit"
+msgstr ""
+
+#. Default: "Move portlet"
+#: ./onegov/policy/tooltips/dashboard.py:28
+msgid "text_dashboard_move"
+msgstr ""
+
+#. Default: "Delete portlet"
+#: ./onegov/policy/tooltips/dashboard.py:33
+msgid "text_dashboard_remove"
+msgstr ""
+
+#. Default: "List of contacts, which are related to this workspace but do not have access."
+#: ./onegov/policy/tooltips/tabbedview.py:43
+msgid "text_tab_contacts"
+msgstr ""
+
+#. Default: "List all documents in this workspace."
+#: ./onegov/policy/tooltips/tabbedview.py:33
+msgid "text_tab_documents"
+msgstr ""
+
+#. Default: "Manage events and meetings."
+#: ./onegov/policy/tooltips/tabbedview.py:38
+msgid "text_tab_events"
+msgstr ""
+
+#. Default: "Overview of folders and recent changes."
+#: ./onegov/policy/tooltips/tabbedview.py:28
+msgid "text_tab_overview"
+msgstr ""
+
+#. Default: "List of all members with access to this workspace."
+#: ./onegov/policy/tooltips/tabbedview.py:59
+msgid "text_tab_participants"
+msgstr ""
+
+#. Default: "Manage members of this workspace."
+#: ./onegov/policy/tooltips/tabbedview.py:54
+msgid "text_tab_sharing"
+msgstr ""
+
+#. Default: "List and manage tasks."
+#: ./onegov/policy/tooltips/tabbedview.py:49
+msgid "text_tab_tasks"
+msgstr ""
+
+#. Default: "Lists all workspaces you have access to."
+#: ./onegov/policy/tooltips/tabbedview.py:64
+msgid "text_tab_workspaces"
+msgstr ""
+
+#. Default: "Lists all documents of all workspaces you have access to."
+#: ./onegov/policy/tooltips/tabbedview.py:69
+msgid "text_tab_workspaces_documents"
+msgstr ""
+
+#. Default: "Lists all events of all workspaces you have access to."
+#: ./onegov/policy/tooltips/tabbedview.py:74
+msgid "text_tab_workspaces_events"
+msgstr ""
+

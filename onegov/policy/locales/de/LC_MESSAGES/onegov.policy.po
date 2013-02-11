@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2013-02-11 14:09+0000\n"
+"POT-Creation-Date: 2013-02-11 14:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,3 +11,75 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0\n"
 "Preferred-Encodings: utf-8 latin1\n"
 "Domain: onegov.policy\n"
+
+#. Default: "Toggle portlet"
+#: ./onegov/policy/tooltips/dashboard.py:23
+msgid "text_dashboard_close"
+msgstr "Infobox auf-/zuklappen"
+
+#. Default: "Edit portlet"
+#: ./onegov/policy/tooltips/dashboard.py:38
+msgid "text_dashboard_edit"
+msgstr "Infobox bearbeiten"
+
+#. Default: "Move portlet"
+#: ./onegov/policy/tooltips/dashboard.py:28
+msgid "text_dashboard_move"
+msgstr "Infobox verschieben"
+
+#. Default: "Delete portlet"
+#: ./onegov/policy/tooltips/dashboard.py:33
+msgid "text_dashboard_remove"
+msgstr "Infobox löschen"
+
+#. Default: "List of contacts, which are related to this workspace but do not have access."
+#: ./onegov/policy/tooltips/tabbedview.py:43
+msgid "text_tab_contacts"
+msgstr "Zusätzlich für Aufgaben und Traktanden zuständige, aber im Arbeitsraum nicht berechtigte Personen/Organisationen."
+
+#. Default: "List all documents in this workspace."
+#: ./onegov/policy/tooltips/tabbedview.py:33
+msgid "text_tab_documents"
+msgstr "Auflistung aller Dokumente, die sich im Arbeitsraum befinden."
+
+#. Default: "Manage events and meetings."
+#: ./onegov/policy/tooltips/tabbedview.py:38
+msgid "text_tab_events"
+msgstr "Verwaltung von Agenda, Umfragen, Sitzungen mit Traktandenliste und Protokollen."
+
+#. Default: "Overview of folders and recent changes."
+#: ./onegov/policy/tooltips/tabbedview.py:28
+msgid "text_tab_overview"
+msgstr "Alle Ordner, die letzten Änderungen auf einen Blick."
+
+#. Default: "List of all members with access to this workspace."
+#: ./onegov/policy/tooltips/tabbedview.py:59
+msgid "text_tab_participants"
+msgstr "Auflistung und Verwaltung der berechtigten Personen."
+
+#. Default: "Manage members of this workspace."
+#: ./onegov/policy/tooltips/tabbedview.py:54
+msgid "text_tab_sharing"
+msgstr "Übersicht über die zugriffsberechtigten Mitglieder des Arbeitsraumes."
+
+#. Default: "List and manage tasks."
+#: ./onegov/policy/tooltips/tabbedview.py:49
+msgid "text_tab_tasks"
+msgstr "Erfassung und Zuteilung von Aufgaben inkl. Statusübersicht."
+
+#. Default: "Lists all workspaces you have access to."
+#: ./onegov/policy/tooltips/tabbedview.py:64
+msgid "text_tab_workspaces"
+msgstr "Auflistung aller Arbeitsräume, auf die Sie Zugriff haben"
+
+#. Default: "Lists all documents of all workspaces you have access to."
+#: ./onegov/policy/tooltips/tabbedview.py:69
+msgid "text_tab_workspaces_documents"
+msgstr "Auflistung aller Dokumente aus allen Arbeitsräumen, auf die Sie Zugriff haben"
+
+#. Default: "Lists all events of all workspaces you have access to."
+#: ./onegov/policy/tooltips/tabbedview.py:74
+msgid "text_tab_workspaces_events"
+msgstr "Auflistung aller Termine aus allen Arbeitsräumen, auf die Sie Zugriff haben"
+
+
