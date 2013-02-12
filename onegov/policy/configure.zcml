@@ -16,16 +16,24 @@
         />
 
     <inflator:bundle
-        title="OneGov Box"
+        title="OneGov Box (Example content)"
+        description="Setup a OneGov Box with example content."
         profiles="ftw.inflator:setup-language
-                  onegov.policy:default"
+                  onegov.policy:example-content"
         />
-
 
     <genericsetup:registerProfile
         name="default"
         title="onegov.policy : default"
         directory="profiles/default"
+        description=""
+        provides="Products.GenericSetup.interfaces.EXTENSION"
+        />
+
+    <genericsetup:registerProfile
+        name="example-content"
+        title="onegov.policy : example-content"
+        directory="profiles/example-content"
         description=""
         provides="Products.GenericSetup.interfaces.EXTENSION"
         />
