@@ -11,6 +11,8 @@
     <include package=".tooltips" />
 
     <!-- setup -->
+    <include package="ftw.inflator" file="meta.zcml" />
+
     <inflator:customize
         product="OneGov Box"
         />

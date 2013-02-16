@@ -5,8 +5,10 @@
     <dependencies>
         <dependency>profile-ftw.workspace:default</dependency>
         <dependency>profile-izug.ticketbox:default</dependency>
+        <dependency>profile-ftw.globalstatusmessage:default</dependency>
         <dependency>profile-ftw.tagging:default</dependency>
         <dependency>profile-ftw.blog:default</dependency>
+        <dependency>profile-ftw.colorbox:default</dependency>
         <dependency>profile-ftw.book:default</dependency>
         <dependency>profile-ftw.calendarwidget:default</dependency>
         <dependency>profile-ftw.task:default</dependency>
@@ -21,7 +23,9 @@
         <dependency>profile-ftw.billboard:default</dependency>
         <dependency>profile-ftw.tabbedview:quickupload</dependency>
         <dependency>profile-ftw.keywordoverlay:default</dependency>
-        <dependency>profile-ftw.notification.base:default</dependency>
+        <dependency>profile-ftw.notification.email:default</dependency>
+        <dependency>profile-ftw.participation:default</dependency>
+        <dependency>profile-ftwbook.graphicblock:default</dependency>
         <dependency>profile-ftw.tooltip:default</dependency>
         <dependency>profile-ftw.usermanagement:default</dependency>
         <dependency>profile-ftw.permissionmanager:default</dependency>

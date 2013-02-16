@@ -4,10 +4,19 @@ import os
 version = '1.0.dev0'
 
 
-tests_require = ['plone.app.testing',
-                 'plone.mocktestcase',
-                 'ftw.testing',
-                 ]
+tests_require = [
+    'unittest2',
+
+    'z3c.autoinclude',
+    'zope.configuration',
+
+    'plone.testing',
+    'plone.app.testing',
+    'plone.browserlayer',
+    'Products.CMFCore',
+
+    'collective.transmogrifier',
+    ]
 
 
 extras_require = {
@@ -43,8 +52,10 @@ setup(name='onegov.policy',
       install_requires=[
         'setuptools',
 
-        'collective.quickupload',
-        'collective.js.extjs',
+        'zope.component',
+        'zope.i18nmessageid',
+        'zope.interface',
+        'Products.GenericSetup',
 
         'ftw.billboard',
         'ftw.blog',
@@ -56,9 +67,7 @@ setup(name='onegov.policy',
         'ftw.dashboard.portlets.favourites',
         'ftw.dashboard.portlets.postit',
         'ftw.dashboard.portlets.recentlymodified',
-        'ftw.dictstorage',
         'ftw.file',
-        'ftw.geo',
         'ftw.globalstatusmessage',
         'ftw.inflator',
         'ftw.journal',
@@ -66,11 +75,9 @@ setup(name='onegov.policy',
         'ftw.meeting',
         'ftw.notification.email',
         'ftw.participation',
-        'ftw.pdfgenerator',
         'ftw.permissionmanager',
         'ftw.poodle',
-        'ftw.tabbedview',
-        'ftw.table',
+        'ftw.tabbedview [extjs, quickupload]',
         'ftw.tagging',
         'ftw.task',
         'ftw.tooltip',
