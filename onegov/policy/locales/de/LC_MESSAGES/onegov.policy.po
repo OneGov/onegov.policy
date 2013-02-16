@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2013-02-11 14:38+0000\n"
+"POT-Creation-Date: 2013-02-16 13:46+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10,7 +10,17 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 "Preferred-Encodings: utf-8 latin1\n"
-"Domain: onegov.policy\n"
+"Domain: DOMAIN\n"
+
+#. Default: "OneGov Box (Example content)"
+#: ./onegov/policy/configure.zcml
+msgid "OneGov Box (Example content)"
+msgstr "OneGov Box (Beispiel-Inhalte)"
+
+#. Default: "Setup a OneGov Box with example content."
+#: ./onegov/policy/configure.zcml
+msgid "Setup a OneGov Box with example content."
+msgstr "Installiert eine OneGov Box mit Beispielinhalten."
 
 #. Default: "Toggle portlet"
 #: ./onegov/policy/tooltips/dashboard.py:23
@@ -68,18 +78,16 @@ msgid "text_tab_tasks"
 msgstr "Erfassung und Zuteilung von Aufgaben inkl. Statusübersicht."
 
 #. Default: "Lists all workspaces you have access to."
-#: ./onegov/policy/tooltips/tabbedview.py:64
+#: ./onegov/policy/tooltips/tabbedview.py:65
 msgid "text_tab_workspaces"
 msgstr "Auflistung aller Arbeitsräume, auf die Sie Zugriff haben"
 
 #. Default: "Lists all documents of all workspaces you have access to."
-#: ./onegov/policy/tooltips/tabbedview.py:69
+#: ./onegov/policy/tooltips/tabbedview.py:70
 msgid "text_tab_workspaces_documents"
 msgstr "Auflistung aller Dokumente aus allen Arbeitsräumen, auf die Sie Zugriff haben"
 
 #. Default: "Lists all events of all workspaces you have access to."
-#: ./onegov/policy/tooltips/tabbedview.py:74
+#: ./onegov/policy/tooltips/tabbedview.py:76
 msgid "text_tab_workspaces_events"
 msgstr "Auflistung aller Termine aus allen Arbeitsräumen, auf die Sie Zugriff haben"
-
-
