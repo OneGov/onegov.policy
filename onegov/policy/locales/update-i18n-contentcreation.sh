@@ -38,4 +38,5 @@ done
 
 for pofile in $(find . -name $POFILENAME); do
     i18ndude sync --pot $POTFILE $pofile
+    mv $pofile $pofile.orig && cat $pofile.orig | sed -e '/^\"Language-[CN].*$/d' -e '/^\"Domain.*$/d' > $pofile && rm $pofile.orig
 done
