@@ -56,6 +56,7 @@ setup(name='onegov.policy',
         'zope.i18nmessageid',
         'zope.interface',
         'Products.GenericSetup',
+        'Products.CMFPlacefulWorkflow',
 
         'ftw.billboard',
         'ftw.blog',
