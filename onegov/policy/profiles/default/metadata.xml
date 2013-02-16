@@ -3,6 +3,7 @@
     <version>1000</version>
 
     <dependencies>
+        <dependency>profile-Products.CMFPlacefulWorkflow:CMFPlacefulWorkflow</dependency>
         <dependency>profile-ftw.workspace:default</dependency>
         <dependency>profile-izug.ticketbox:default</dependency>
         <dependency>profile-ftw.globalstatusmessage:default</dependency>

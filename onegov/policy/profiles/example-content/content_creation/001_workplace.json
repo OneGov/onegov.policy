@@ -1,0 +1,27 @@
+[
+
+    {
+        "_path:translate(onegov.policy.contentcreation)": "workplace",
+        "_type": "Folder",
+        "title:translate(onegov.policy.contentcreation)": "Workplace",
+        "_transitions": "publish_canton",
+        "_children": [
+
+            {
+                "_id:translate(onegov.policy.contentcreation)": "workspaces",
+                "_type": "Folder",
+                "title:translate(onegov.policy.contentcreation)": "Workspaces",
+                "_placefulworkflow": ["arbeitsraum_policy", "arbeitsraum_policy"],
+                "_properties": {
+                    "layout": ["string", "workspaces_view"]
+                },
+                "_constrain_types": {
+                    "locally": ["Workspace"],
+                    "immediately": ["Workspace"]
+                }
+            }
+
+        ]
+    }
+
+]
