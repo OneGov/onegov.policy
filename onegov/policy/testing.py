@@ -15,8 +15,10 @@ class OneGovBoxLayer(PloneSandboxLayer):
         # reset transmogrifier registry when setting up, so that
         # we can re-register blueprints using ZCML.
         from collective.transmogrifier import transmogrifier
+        # pylint: disable=W0212
         transmogrifier.configuration_registry._config_info = {}
         transmogrifier.configuration_registry._config_ids = []
+        # pylint: enable=W0212
 
         # Auto-include all Plone addon ZCMLs
         import z3c.autoinclude

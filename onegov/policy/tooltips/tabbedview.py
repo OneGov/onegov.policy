@@ -21,7 +21,7 @@ class TabbedviewTooltipSource(object):
         return [
 
             {'selector': u'a.rollover',
-             'text': u'', # Use title attribute
+             'text': u'',  # Use title attribute
              'condition': 'body.template-tabbed_view'},
 
             {'selector': u'.tabbedview-tabs a#tab-overview',
@@ -57,7 +57,8 @@ class TabbedviewTooltipSource(object):
 
             {'selector': u'.tabbedview-tabs a#tab-participants',
              'text': _(u'text_tab_participants',
-                       default=u'List of all members with access to this workspace.'),
+                       default=u'List of all members with '
+                       u'access to this workspace.'),
              'condition': 'body.template-tabbed_view'},
 
             {'selector': u'.tabbedview-tabs a#tab-workspaces',
@@ -67,12 +68,14 @@ class TabbedviewTooltipSource(object):
 
             {'selector': u'.tabbedview-tabs a#tab-documents',
              'text': _(u'text_tab_workspaces_documents',
-                       default=u'Lists all documents of all workspaces you have access to.'),
+                       default=u'Lists all documents of all workspaces you'
+                       u' have access to.'),
              'condition': 'body.template-workspaces_view'},
 
             {'selector': u'.tabbedview-tabs a#tab-events',
              'text': _(u'text_tab_workspaces_events',
-                       default=u'Lists all events of all workspaces you have access to.'),
+                       default=u'Lists all events of all workspaces you'
+                       u' have access to.'),
              'condition': 'body.template-workspaces_view'},
 
             ]
