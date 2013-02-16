@@ -15,6 +15,7 @@
 
     <inflator:customize
         product="OneGov Box"
+        image="browser/resources/onegovbox_rgb.png"
         />
 
     <inflator:bundle
