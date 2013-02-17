@@ -42,7 +42,6 @@ class OneGovBoxLayer(PloneSandboxLayer):
         z2.installProduct(app, 'ftw.notification.email')
         z2.installProduct(app, 'ftw.permissionmanager')
         z2.installProduct(app, 'ftw.poodle')
-        z2.installProduct(app, 'ftw.task')
         z2.installProduct(app, 'ftw.workspace')
         z2.installProduct(app, 'ftwbook.graphicblock')
         z2.installProduct(app, 'izug.ticketbox')

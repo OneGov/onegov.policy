@@ -12,7 +12,6 @@
         <dependency>profile-ftw.colorbox:default</dependency>
         <dependency>profile-ftw.book:default</dependency>
         <dependency>profile-ftw.calendarwidget:default</dependency>
-        <dependency>profile-ftw.task:default</dependency>
         <dependency>profile-ftw.file:default</dependency>
         <dependency>profile-ftw.poodle:default</dependency>
         <dependency>profile-ftw.dashboard.dragndrop:default</dependency>
