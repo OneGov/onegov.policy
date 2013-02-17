@@ -47,6 +47,15 @@ for jsonpath in content_creation_files:
     msgids.update(get_translated_values(data))
 
 
+def escape(s):
+    s = s.replace('\\', '\\\\')
+    s = s.replace('\t', '\\t')
+    s = s.replace('\r', '\\r')
+    s = s.replace('\n', '\\n')
+    s = s.replace('\"', '\\"')
+    return s
+
+
 with open(potfile_path, 'w+') as potfile:
     potfile.write('\n'.join((
                 r'# --- PLEASE EDIT THE LINES BELOW CORRECTLY ---',
@@ -71,7 +80,7 @@ with open(potfile_path, 'w+') as potfile:
     for msgid in msgids:
         potfile.write('\n'.join((
                     '\n',
-                    'msgid "%s"' % msgid,
+                    'msgid "%s"' % escape(msgid),
                     'msgstr ""')))
 
 

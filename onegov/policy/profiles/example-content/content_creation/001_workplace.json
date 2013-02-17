@@ -1,27 +1,41 @@
 [
 
-    {
-        "_path:translate(onegov.policy.contentcreation)": "workplace",
-        "_type": "Folder",
-        "title:translate(onegov.policy.contentcreation)": "Workplace",
-        "_transitions": "publish_canton",
-        "_children": [
+    {"_path:translate(onegov.policy.contentcreation)": "workplace",
+     "_type": "Folder",
+     "title:translate(onegov.policy.contentcreation)": "Workplace",
+     "_transitions": "publish_canton",
+     "_properties": {
+         "default_page": ["string", "workplace-page"]
+     },
+     "_children": [
 
-            {
-                "_id:translate(onegov.policy.contentcreation)": "workspaces",
-                "_type": "Folder",
-                "title:translate(onegov.policy.contentcreation)": "Workspaces",
-                "_placefulworkflow": ["arbeitsraum_policy", "arbeitsraum_policy"],
-                "_properties": {
-                    "layout": ["string", "workspaces_view"]
-                },
-                "_constrain_types": {
-                    "locally": ["Workspace"],
-                    "immediately": ["Workspace"]
-                }
-            }
+         {"_id": "workplace-page",
+          "_type": "ContentPage",
+          "title": "Arbeitsplatz",
+          "_children": [
 
-        ]
-    }
+
+              {"_id": "workspaces",
+               "_type": "Paragraph",
+               "title:translate(onegov.policy.contentcreation)": "Workspaces",
+               "image:file": "images/workspaces.png",
+               "text:translate(onegov.policy.contentcreation)": "<p><strong><a href=\"../workspaces\">Workspaces</a></strong><br />Create a workspace for collaborating with other users in a project. Store your files and manage your meetings.</p>"}
+
+
+          ]},
+
+
+         {"_id:translate(onegov.policy.contentcreation)": "workspaces",
+          "_type": "Folder",
+          "title:translate(onegov.policy.contentcreation)": "Workspaces",
+          "_properties": {
+              "layout": ["string", "workspaces_view"]
+          },
+          "_constrain_types": {
+              "locally": ["Workspace"],
+              "immediately": ["Workspace"]
+          }}
+
+     ]}
 
 ]

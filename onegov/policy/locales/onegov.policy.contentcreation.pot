@@ -17,14 +17,17 @@ msgstr ""
 "Preferred-Encodings: utf-8 latin1\n"
 "Domain: onegov.policy.contentcreation\n"
 
-msgid "workplace"
-msgstr ""
-
-msgid "Workplace"
-msgstr ""
-
 msgid "workspaces"
 msgstr ""
 
 msgid "Workspaces"
+msgstr ""
+
+msgid "workplace"
+msgstr ""
+
+msgid "<p><strong><a href=\"../workspaces\">Workspaces</a></strong><br />Create a workspace for collaborating with other users in a project. Store your files and manage your meetings.</p>"
+msgstr ""
+
+msgid "Workplace"
 msgstr ""

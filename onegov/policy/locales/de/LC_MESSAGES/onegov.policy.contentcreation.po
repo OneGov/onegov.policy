@@ -4,12 +4,14 @@ msgstr ""
 "POT-Creation-Date: 2013-02-01 16:26+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 "Preferred-Encodings: utf-8 latin1\n"
+
+msgid "<p><strong><a href=\"../workspaces\">Workspaces</a></strong><br />Create a workspace for collaborating with other users in a project. Store your files and manage your meetings.</p>"
+msgstr "<p><strong><a href=\"../arbeitsraeume\">Arbeitsräume</a></strong><br />Das Modul «Arbeitsraum» ist ein virtueller Raum, in dem verschiedene Mitarbeitende mit entsprechender Berechtigung organisationsübergreifend zusammenarbeiten.</p>"
 
 msgid "Workplace"
 msgstr "Arbeitsplatz"
@@ -22,4 +24,3 @@ msgstr "arbeitsplatz"
 
 msgid "workspaces"
 msgstr "arbeitsraeume"
-
