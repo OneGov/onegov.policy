@@ -35,6 +35,7 @@ class OneGovBoxLayer(PloneSandboxLayer):
         z2.installProduct(app, 'ftw.billboard')
         z2.installProduct(app, 'ftw.blog')
         z2.installProduct(app, 'ftw.book')
+        z2.installProduct(app, 'ftw.contentpage')
         z2.installProduct(app, 'ftw.file')
         z2.installProduct(app, 'ftw.keywordoverlay')
         z2.installProduct(app, 'ftw.meeting')
