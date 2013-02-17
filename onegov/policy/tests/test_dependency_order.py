@@ -1,7 +1,7 @@
 from Products.CMFCore.utils import getToolByName
 from ftw.upgrade.exceptions import CyclicDependencies
 from ftw.upgrade.utils import topological_sort
-from onegov.policy.testing import ONEGOV_BOX_INTEGRATION_TESTING
+from onegov.policy.testing import ENGLISH_BUNDLE_INTEGRATION
 from unittest2 import TestCase
 from xml.dom.minidom import parse
 import os.path
@@ -54,7 +54,7 @@ class TestDependencyOrder(TestCase):
     ``default`` profile is correct.
     """
 
-    layer = ONEGOV_BOX_INTEGRATION_TESTING
+    layer = ENGLISH_BUNDLE_INTEGRATION
 
     def get_sorted_profile_ids(self):
         portal = self.layer['portal']

@@ -1,17 +1,16 @@
 from ftw.inflator.bundle import get_bundle_by_name
-from plone.app.testing import FunctionalTesting
 from plone.app.testing import IntegrationTesting
 from plone.app.testing import PLONE_SITE_ID
-from plone.app.testing import PloneSandboxLayer
 from plone.app.testing import SITE_OWNER_NAME
 from plone.app.testing import SITE_OWNER_PASSWORD
 from plone.app.testing import TEST_USER_ID
 from plone.app.testing import TEST_USER_NAME
 from plone.app.testing import TEST_USER_PASSWORD
 from plone.app.testing import TEST_USER_ROLES
-from plone.app.testing import applyProfile
 from plone.app.testing.layers import PloneFixture
+from plone.testing import Layer
 from plone.testing import z2
+from plone.testing import zodb
 from zope.configuration import xmlconfig
 
 
@@ -75,60 +74,63 @@ class OneGovFixture(PloneFixture):
         super(OneGovFixture, self).tearDown()
         clear_transmogrifier_registry()
 
+    def setUpDefaultContent(self, app):
+        # Do not install plone site in this base layer,
+        # so that we can reuse it an setup multiple sites
+        # with different languages in sequence.
+
+        with z2.zopeApp() as app:
+            app['acl_users'].userFolderAddUser(
+                SITE_OWNER_NAME,
+                SITE_OWNER_PASSWORD,
+                ['Manager'],
+                [])
+
 
 ONEGOV_FIXTURE = OneGovFixture()
 
 
-class OneGovBoxLayer(PloneSandboxLayer):
+class BundleLayer(Layer):
 
     defaultBases = (ONEGOV_FIXTURE, )
 
-    def setUpPloneSite(self, portal):
-        applyProfile(portal, 'onegov.policy:default')
-
-
-ONEGOV_BOX_LAYER = OneGovBoxLayer()
-ONEGOV_BOX_INTEGRATION_TESTING = IntegrationTesting(
-    bases=(ONEGOV_BOX_LAYER, ),
-    name="onegov.policy:integration")
-ONEGOV_BOX_FUNCTIONAL_TESTING = FunctionalTesting(
-    bases=(ONEGOV_BOX_LAYER, ),
-    name="onegov.policy:functional")
-
-
-class BundleLayer(OneGovFixture):
-
-    def __init__(self, language):
-        super(OneGovFixture, self).__init__()
+    def __init__(self, language, *args, **kwargs):
+        super(BundleLayer, self).__init__(*args, **kwargs)
         self.language = language
 
-    def setUpDefaultContent(self, app):
-        app['acl_users'].userFolderAddUser(
-            SITE_OWNER_NAME,
-            SITE_OWNER_PASSWORD,
-            ['Manager'],
-            [])
+    def setUp(self):
+        # Stack a new DemoStorage
+        self['zodbDB'] = zodb.stackDemoStorage(
+            self.get('zodbDB'), name='BundleLayer:%s' % self.language)
 
-        z2.login(app['acl_users'], SITE_OWNER_NAME)
+        with z2.zopeApp() as app:
+            z2.login(app['acl_users'], SITE_OWNER_NAME)
 
-        bundle = get_bundle_by_name('OneGov Box (Example content)')
-        bundle.install(app, PLONE_SITE_ID, language=self.language)
+            # instll a plone site with the bundle
+            bundle = get_bundle_by_name('OneGov Box (Example content)')
+            bundle.install(app, PLONE_SITE_ID, language=self.language)
 
-        pas = app[PLONE_SITE_ID]['acl_users']
-        pas.source_users.addUser(
-                TEST_USER_ID,
-                TEST_USER_NAME,
-                TEST_USER_PASSWORD)
-        for role in TEST_USER_ROLES:
-            pas.portal_role_manager.doAssignRoleToPrincipal(TEST_USER_ID, role)
+            # create the plone test user
+            pas = app[PLONE_SITE_ID]['acl_users']
+            pas.source_users.addUser(
+                    TEST_USER_ID,
+                    TEST_USER_NAME,
+                    TEST_USER_PASSWORD)
+            for role in TEST_USER_ROLES:
+                pas.portal_role_manager.doAssignRoleToPrincipal(TEST_USER_ID, role)
 
-        z2.logout()
+            z2.logout()
+
+    def tearDown(self):
+        # Zap the stacked ZODB
+        self['zodbDB'].close()
+        del self['zodbDB']
 
 
-ENGLISH_BUNDLE_LAYER = IntegrationTesting(
+ENGLISH_BUNDLE_INTEGRATION = IntegrationTesting(
     bases=(BundleLayer('en'), ),
     name="onegov.policy:bundle:en")
 
-GERMAN_BUNDLE_LAYER = IntegrationTesting(
+GERMAN_BUNDLE_INTEGRATION = IntegrationTesting(
     bases=(BundleLayer('de'), ),
     name="onegov.policy:bundle:de")

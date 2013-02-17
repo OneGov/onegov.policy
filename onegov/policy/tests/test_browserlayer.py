@@ -1,13 +1,13 @@
 from Products.CMFCore.utils import getToolByName
 from onegov.policy.interfaces import IOneGovLayer
-from onegov.policy.testing import ONEGOV_BOX_FUNCTIONAL_TESTING
+from onegov.policy.testing import ENGLISH_BUNDLE_INTEGRATION
 from plone.browserlayer.utils import registered_layers
 from unittest2 import TestCase
 
 
 class TestBrowserlayerInstalled(TestCase):
 
-    layer = ONEGOV_BOX_FUNCTIONAL_TESTING
+    layer = ENGLISH_BUNDLE_INTEGRATION
 
     def test_onegov_policy_profile_installed(self):
         portal = self.layer['portal']

@@ -1,10 +1,10 @@
-from onegov.policy.testing import GERMAN_BUNDLE_LAYER
+from onegov.policy.testing import GERMAN_BUNDLE_INTEGRATION
 from onegov.policy.tests.test_bundle_english import TestBundleEnglish
 
 
 class TestBundleGerman(TestBundleEnglish):
 
-    layer = GERMAN_BUNDLE_LAYER
+    layer = GERMAN_BUNDLE_INTEGRATION
 
     translations = {
         'workplace': 'arbeitsplatz',

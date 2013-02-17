@@ -1,4 +1,4 @@
-from onegov.policy.testing import ENGLISH_BUNDLE_LAYER
+from onegov.policy.testing import ENGLISH_BUNDLE_INTEGRATION
 from plone.app.testing import SITE_OWNER_NAME
 from plone.app.testing import SITE_OWNER_PASSWORD
 from plone.testing.z2 import Browser
@@ -8,7 +8,7 @@ from unittest2 import TestCase
 
 class TestBundleEnglish(TestCase):
 
-    layer = ENGLISH_BUNDLE_LAYER
+    layer = ENGLISH_BUNDLE_INTEGRATION
 
     translations = {}
 
