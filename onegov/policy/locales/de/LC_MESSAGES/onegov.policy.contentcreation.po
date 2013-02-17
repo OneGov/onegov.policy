@@ -13,11 +13,32 @@ msgstr ""
 msgid "<p><strong><a href=\"../workspaces\">Workspaces</a></strong><br />Create a workspace for collaborating with other users in a project. Store your files and manage your meetings.</p>"
 msgstr "<p><strong><a href=\"../arbeitsraeume\">Arbeitsräume</a></strong><br />Das Modul «Arbeitsraum» ist ein virtueller Raum, in dem verschiedene Mitarbeitende mit entsprechender Berechtigung organisationsübergreifend zusammenarbeiten.</p>"
 
+msgid "Conference Room 1"
+msgstr "Sitzungszimmer 1"
+
+msgid "Example Workspace"
+msgstr "Beispiel Arbeitsraum"
+
+msgid "Flower"
+msgstr "Blume"
+
+msgid "Pictures"
+msgstr "Bilder"
+
+msgid "Project meeting"
+msgstr "Projektsitzung"
+
 msgid "Workplace"
 msgstr "Arbeitsplatz"
 
 msgid "Workspaces"
 msgstr "Arbeitsräume"
+
+msgid "example-workspace"
+msgstr "beispiel-arbeitsraum"
+
+msgid "project-meeting"
+msgstr "projektsitzung"
 
 msgid "workplace"
 msgstr "arbeitsplatz"
