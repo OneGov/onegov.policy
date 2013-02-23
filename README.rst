@@ -20,7 +20,7 @@ Development
 
 For development, you can install the onegov.policy package directly (without using the onegov-buildout):
 
-.. code::shell
+.. code:: shell
 
     $ git clone https://github.com/OneGov/onegov.policy.git
     $ cd onegov.policy
