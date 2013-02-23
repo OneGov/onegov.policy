@@ -13,7 +13,6 @@
         <dependency>profile-ftw.book:default</dependency>
         <dependency>profile-ftw.calendarwidget:default</dependency>
         <dependency>profile-ftw.file:default</dependency>
-        <dependency>profile-ftw.poodle:default</dependency>
         <dependency>profile-ftw.dashboard.dragndrop:default</dependency>
         <dependency>profile-ftw.dashboard.portlets.postit:default</dependency>
         <dependency>profile-ftw.dashboard.portlets.recentlymodified:default</dependency>
