@@ -13,6 +13,12 @@ msgstr ""
 msgid "<p><strong><a href=\"../workspaces\">Workspaces</a></strong><br />Create a workspace for collaborating with other users in a project. Store your files and manage your meetings.</p>"
 msgstr "<p><strong><a href=\"../arbeitsraeume\">Arbeitsräume</a></strong><br />Das Modul «Arbeitsraum» ist ein virtueller Raum, in dem verschiedene Mitarbeitende mit entsprechender Berechtigung organisationsübergreifend zusammenarbeiten.</p>"
 
+msgid "<p><strong>The basis for efficient e-government and e-business</strong><br />Intranet, extranet and internet in a safe, uniform and consistent designed system: this is OneGov Box - the powerful tool for government agencies and businesses. The modular system is easy to use, can be easily and quickly adapted to the growing needs of users as well as the challenges of the future. A powerful, versatile tool that grows with you.</p><p><strong>An extendable collaboration platform with many features</strong><br />It networks and integrates people and organizations inside and outside the goverment agency or company. The various modules and tools facilitate internal and external collaboration, and support the efficient and reliable communication with your customers and partners.</p>"
+msgstr "<p><strong>Die Basis für effizientes E-Government und E-Business</strong><br />Intranet, Internet und Extranet in einem sicheren, einheitlich und durchgängig gestalteten System zusammengefasst: das ist OneGov Box – die leistungsfähige Plattform für Verwaltung und Unternehmen. Das modulare System ist einfach zu bedienen, lässt sich einfach und schnell auf wachsende Bedürfnisse der Nutzerinnen und Nutzer sowie auf die Herausforderungen der Zukunft anpassen. Ein mächtiges, vielseitiges Werkzeug, das mit Ihnen wächst.</p><p><br /><strong>Die ausbaufähige Arbeits- und Kommunikationsplattform mit vielen Funktionen</strong><br />Nutzen Sie OneGov Box als individuell gestaltbarer Online-Arbeitsplatz mit viel Potential. Sie vernetzt und integriert Menschen und Organisationen innerhalb und ausserhalb der Verwaltung oder Ihres Unternehmens. Die verschiedenen Module und Instrumente vereinfachen die interne und externe Zusammenarbeit und unterstützen die effiziente und sichere Kommunikation mit Ihren Kunden und Partnern.</p>"
+
+msgid "<p>The association certifies the software modules as well as the manufacturers of OneGov box. For you that means:<ul><li>Quality first-hand</li><li>Safety in the use of the software</li><li>Continuity in the products used</li><li>Part of a strong community</li></ul>"
+msgstr "<p>Der Verein OneGov.ch zertifiziert die Software-Module sowie die Hersteller der OneGov Box. Für Sie bedeutet das:</p><p>- Qualität aus erster Hand<br />- Sicherheit beim Einsatz der Software<br />- Kontinuität bei den eingesetzten Produkten<br />- Teil einer starken Gemeinschaft</p><ul></ul>"
+
 msgid "Conference Room 1"
 msgstr "Sitzungszimmer 1"
 
@@ -22,11 +28,20 @@ msgstr "Beispiel Arbeitsraum"
 msgid "Flower"
 msgstr "Blume"
 
+msgid "OneGov Box"
+msgstr "OneGov Box"
+
+msgid "OneGov Box - simple - secure - modular"
+msgstr "OneGov Box – einfach – sicher – modular"
+
 msgid "Pictures"
 msgstr "Bilder"
 
 msgid "Project meeting"
 msgstr "Projektsitzung"
+
+msgid "Quality"
+msgstr ""
 
 msgid "Workplace"
 msgstr "Arbeitsplatz"

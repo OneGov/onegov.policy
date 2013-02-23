@@ -1,0 +1,33 @@
+[
+    {"_path": "onegov-box",
+     "_type": "ContentPage",
+     "title:translate(onegov.policy.contentcreation)": "OneGov Box",
+     "description:translate(onegov.policy.contentcreation)": "OneGov Box - simple - secure - modular",
+     "_children": [
+
+
+         {"_id": "block1",
+          "_type": "TextBlock",
+          "title:translate(onegov.policy.contentcreation)": "OneGov Box - simple - secure - modular",
+          "image:file": "images/example_02.jpg",
+          "text:translate(onegov.policy.contentcreation)": "<p><strong>The basis for efficient e-government and e-business</strong><br />Intranet, extranet and internet in a safe, uniform and consistent designed system: this is OneGov Box - the powerful tool for government agencies and businesses. The modular system is easy to use, can be easily and quickly adapted to the growing needs of users as well as the challenges of the future. A powerful, versatile tool that grows with you.</p><p><strong>An extendable collaboration platform with many features</strong><br />It networks and integrates people and organizations inside and outside the goverment agency or company. The various modules and tools facilitate internal and external collaboration, and support the efficient and reliable communication with your customers and partners.</p>"},
+
+
+         {"_id": "quality",
+          "_type": "ContentPage",
+          "title:translate(onegov.policy.contentcreation)": "Quality",
+          "_children": [
+
+
+              {"_id": "block1",
+               "_type": "TextBlock",
+               "title": "OneGov Approved",
+               "image:file": "images/example_03.png",
+               "text:translate(onegov.policy.contentcreation)": "<p>The association certifies the software modules as well as the manufacturers of OneGov box. For you that means:<ul><li>Quality first-hand</li><li>Safety in the use of the software</li><li>Continuity in the products used</li><li>Part of a strong community</li></ul>"}
+
+
+          ]}
+
+     ]}
+
+]

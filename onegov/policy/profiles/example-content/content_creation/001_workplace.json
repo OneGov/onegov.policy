@@ -3,7 +3,6 @@
     {"_path:translate(onegov.policy.contentcreation)": "workplace",
      "_type": "Folder",
      "title:translate(onegov.policy.contentcreation)": "Workplace",
-     "_transitions": "publish_canton",
      "_properties": {
          "default_page": ["string", "workplace-page"]
      },
