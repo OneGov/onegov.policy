@@ -15,6 +15,21 @@ For details on how to install `OneGov Box`_ see the instructions in the readme o
 `onegov-buildout <https://github.com/OneGov/onegov-buildout/>`_.
 
 
+Development
+-----------
+
+For development, you can install the onegov.policy package directly (without using the onegov-buildout):
+
+.. code::shell
+
+    $ git clone https://github.com/OneGov/onegov.policy.git
+    $ cd onegov.policy
+    $ ln -s development.cfg buildout.cfg
+    $ python2.7 bootstrap.py
+    $ bin/buildout
+    $ bin/instance fg
+
+
 Links
 -----
 
