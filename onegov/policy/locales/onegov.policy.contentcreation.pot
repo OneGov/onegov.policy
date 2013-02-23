@@ -20,9 +20,6 @@ msgstr ""
 msgid "Flower"
 msgstr ""
 
-msgid "Workspaces"
-msgstr ""
-
 msgid "OneGov Box"
 msgstr ""
 
@@ -32,28 +29,52 @@ msgstr ""
 msgid "Pictures"
 msgstr ""
 
+msgid "library"
+msgstr ""
+
+msgid "<p>The association certifies the software modules as well as the manufacturers of OneGov box. For you that means:<ul><li>Quality first-hand</li><li>Safety in the use of the software</li><li>Continuity in the products used</li><li>Part of a strong community</li></ul>"
+msgstr ""
+
+msgid "Workspaces"
+msgstr ""
+
+msgid "<p><strong><a href=\"../library\">Library</a></strong><br />Create books and collaborate editing with a group of users.</p>"
+msgstr ""
+
+msgid "OneGov Box - simple - secure - modular"
+msgstr ""
+
+msgid "example-workspace"
+msgstr ""
+
+msgid "workspaces"
+msgstr ""
+
+msgid "<p><strong><a href=\"../workspaces\">Workspaces</a></strong><br />Create a workspace for collaborating with other users in a project. Store your files and manage your meetings.</p>"
+msgstr ""
+
+msgid "Workplace"
+msgstr ""
+
+msgid "Overview"
+msgstr ""
+
 msgid "Conference Room 1"
 msgstr ""
 
 msgid "project-meeting"
 msgstr ""
 
-msgid "<p>The association certifies the software modules as well as the manufacturers of OneGov box. For you that means:<ul><li>Quality first-hand</li><li>Safety in the use of the software</li><li>Continuity in the products used</li><li>Part of a strong community</li></ul>"
+msgid "Library"
 msgstr ""
 
 msgid "workplace"
 msgstr ""
 
-msgid "Workplace"
-msgstr ""
-
-msgid "<p><strong><a href=\"../workspaces\">Workspaces</a></strong><br />Create a workspace for collaborating with other users in a project. Store your files and manage your meetings.</p>"
+msgid "User manual"
 msgstr ""
 
 msgid "Example Workspace"
-msgstr ""
-
-msgid "workspaces"
 msgstr ""
 
 msgid "<p><strong>The basis for efficient e-government and e-business</strong><br />Intranet, extranet and internet in a safe, uniform and consistent designed system: this is OneGov Box - the powerful tool for government agencies and businesses. The modular system is easy to use, can be easily and quickly adapted to the growing needs of users as well as the challenges of the future. A powerful, versatile tool that grows with you.</p><p><strong>An extendable collaboration platform with many features</strong><br />It networks and integrates people and organizations inside and outside the goverment agency or company. The various modules and tools facilitate internal and external collaboration, and support the efficient and reliable communication with your customers and partners.</p>"
@@ -62,8 +83,5 @@ msgstr ""
 msgid "Quality"
 msgstr ""
 
-msgid "OneGov Box - simple - secure - modular"
-msgstr ""
-
-msgid "example-workspace"
+msgid "<p>The book module allows you to create books with a consistent layout and collaborate with other editors. It allows you to grant permissions on each chapter and delegate responsiblity. Getting a high quality PDF of the book is easy: just hit the PDF button.</p>"
 msgstr ""

@@ -2,13 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2013-02-01 16:26+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
+"PO-Revision-Date: 2013-02-23 17:47+0100\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 "Preferred-Encodings: utf-8 latin1\n"
+
+msgid "<p><strong><a href=\"../library\">Library</a></strong><br />Create books and collaborate editing with a group of users.</p>"
+msgstr "<p><strong><a href=\"../bibliothek\">Bibliothek</a></strong><br />Im Modul &laquo;Buch&raquo; erstellen mehrere Autorinnen und Autoren zentral Publikationen. Die einzelnen Kapitel k&ouml;nnen unabh&auml;ngig voneinander bearbeitet werden.</p>"
 
 msgid "<p><strong><a href=\"../workspaces\">Workspaces</a></strong><br />Create a workspace for collaborating with other users in a project. Store your files and manage your meetings.</p>"
 msgstr "<p><strong><a href=\"../arbeitsraeume\">Arbeitsräume</a></strong><br />Das Modul «Arbeitsraum» ist ein virtueller Raum, in dem verschiedene Mitarbeitende mit entsprechender Berechtigung organisationsübergreifend zusammenarbeiten.</p>"
@@ -19,6 +22,9 @@ msgstr "<p><strong>Die Basis für effizientes E-Government und E-Business</stron
 msgid "<p>The association certifies the software modules as well as the manufacturers of OneGov box. For you that means:<ul><li>Quality first-hand</li><li>Safety in the use of the software</li><li>Continuity in the products used</li><li>Part of a strong community</li></ul>"
 msgstr "<p>Der Verein OneGov.ch zertifiziert die Software-Module sowie die Hersteller der OneGov Box. Für Sie bedeutet das:</p><p>- Qualität aus erster Hand<br />- Sicherheit beim Einsatz der Software<br />- Kontinuität bei den eingesetzten Produkten<br />- Teil einer starken Gemeinschaft</p><ul></ul>"
 
+msgid "<p>The book module allows you to create books with a consistent layout and collaborate with other editors. It allows you to grant permissions on each chapter and delegate responsiblity. Getting a high quality PDF of the book is easy: just hit the PDF button.</p>"
+msgstr "<p>Das Modul &laquo;Buch&raquo; ermöglicht es Ihnen, Bücher einfach zu erstellen. Durch das Trennen von Präsentation und Inhalt hat Ihr Buch ein konsistentes Erscheinungsbild. Indem Sie pro Kapitel Berechtigungen vergeben können Sie einfach Bereiche an andere Redaktore verteilen. Schlussendlich erhalten Sie mit Klick auf \"PDF\" ein qualitativ hochwertiges PDF - bereit zum Druck.</p>"
+
 msgid "Conference Room 1"
 msgstr "Sitzungszimmer 1"
 
@@ -28,11 +34,17 @@ msgstr "Beispiel Arbeitsraum"
 msgid "Flower"
 msgstr "Blume"
 
+msgid "Library"
+msgstr "Bibliothek"
+
 msgid "OneGov Box"
 msgstr "OneGov Box"
 
 msgid "OneGov Box - simple - secure - modular"
 msgstr "OneGov Box – einfach – sicher – modular"
+
+msgid "Overview"
+msgstr "Übersicht"
 
 msgid "Pictures"
 msgstr "Bilder"
@@ -41,7 +53,10 @@ msgid "Project meeting"
 msgstr "Projektsitzung"
 
 msgid "Quality"
-msgstr ""
+msgstr "Qualität"
+
+msgid "User manual"
+msgstr "Benutzerhandbuch"
 
 msgid "Workplace"
 msgstr "Arbeitsplatz"
@@ -51,6 +66,9 @@ msgstr "Arbeitsräume"
 
 msgid "example-workspace"
 msgstr "beispiel-arbeitsraum"
+
+msgid "library"
+msgstr "bibliothek"
 
 msgid "project-meeting"
 msgstr "projektsitzung"

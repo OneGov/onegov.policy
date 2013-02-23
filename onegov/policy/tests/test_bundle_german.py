@@ -10,5 +10,7 @@ class TestBundleGerman(TestBundleEnglish):
         'workplace': 'arbeitsplatz',
         'Workplace': 'Arbeitsplatz',
         'Workspaces': u'Arbeitsr\xe4ume',
-        'workspaces': 'arbeitsraeume'
+        'workspaces': 'arbeitsraeume',
+        'library': 'bibliothek',
+        'Library': 'Bibliothek',
         }

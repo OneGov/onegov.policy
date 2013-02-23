@@ -18,7 +18,14 @@
                "_type": "Paragraph",
                "title:translate(onegov.policy.contentcreation)": "Workspaces",
                "image:file": "images/workspaces.png",
-               "text:translate(onegov.policy.contentcreation)": "<p><strong><a href=\"../workspaces\">Workspaces</a></strong><br />Create a workspace for collaborating with other users in a project. Store your files and manage your meetings.</p>"}
+               "text:translate(onegov.policy.contentcreation)": "<p><strong><a href=\"../workspaces\">Workspaces</a></strong><br />Create a workspace for collaborating with other users in a project. Store your files and manage your meetings.</p>"},
+
+
+              {"_id": "library",
+               "_type": "Paragraph",
+               "title:translate(onegov.policy.contentcreation)": "Library",
+               "image:file": "images/library.png",
+               "text:translate(onegov.policy.contentcreation)": "<p><strong><a href=\"../library\">Library</a></strong><br />Create books and collaborate editing with a group of users.</p>"}
 
 
           ]},
@@ -87,12 +94,46 @@
                          "text": "<p>The new Plone Foundation Membership Committee for thie coming year has been announced by the Foundation Board of Directors:</p>\n<ul><li>Roberto Allende</li>\n<li>Chris Calloway</li>\n<li>Godefroid Chapelle</li>\n<li>Maurizio Delmonte - Chair</li>\n<li>Tom Kapanka</li>\n<li>Clayton Parker</li>\n<li>Balasz Ree</li>\n<li>Alan Runyan</li>\n<li>Jon Stahl</li>\n<li>Matthew Wilkes</li>\n<li>Héctor Velarde</li>\n</ul><p>The main responsibility of the Membership Committee is to evaluate  membership applications from individuals that want to become members of  the Plone Foundation.&nbsp; The Membership Committee makes recommendations to  the Plone Foundation Board of Directors, who have the final authority  to approve or reject membership applications.</p>\n<p>Applications for membership are reviewed by the committee  approximately every two months with recommendations from the committee  forwarded to the Board at the next subsequent board meeting.</p>\n<p>Information about the membership committee is available <a class=\"external-link\" href=\"../foundation/committees/membership\">here</a></p>\n"
                         }
 
+                    ]},
+
+
+                   {"_id": "user-manual",
+                    "_type": "Book",
+                    "title:translate(onegov.policy.contentcreation)": "User manual",
+                    "_children": [
+
+
+                        {"_id": "overview",
+                         "_type": "Chapter",
+                         "title:translate(onegov.policy.contentcreation)": "Overview",
+                         "_children": [
+
+                             {"_id": "overview-1",
+                              "_type": "Paragraph",
+                              "text:translate(onegov.policy.contentcreation)": "<p>The book module allows you to create books with a consistent layout and collaborate with other editors. It allows you to grant permissions on each chapter and delegate responsiblity. Getting a high quality PDF of the book is easy: just hit the PDF button.</p>"}
+
+
+                         ]}
+
                     ]}
 
                ]}
 
 
-          ]}
+          ]},
+
+
+         {"_id:translate(onegov.policy.contentcreation)": "library",
+          "_type": "Folder",
+          "title:translate(onegov.policy.contentcreation)": "Library",
+          "_properties": {
+              "layout": ["string", "tabbed_book_view"]
+          },
+          "_constrain_types": {
+              "locally": [],
+              "immediately": []
+          }}
+
 
      ]}
 

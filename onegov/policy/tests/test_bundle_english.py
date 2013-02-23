@@ -43,9 +43,36 @@ class TestBundleEnglish(TestCase):
             1,
             'Expected one link "%s", but found: %s' % (
                 self.translated('Workspaces'),
-                str(map(lambda node: node.text_content(), links))))
+                str(map(lambda node: node.text_content(), workspaces_links))))
 
         self.assertEquals(
-            links[0].get('href'),
+            workspaces_links[0].get('href'),
             '../%s' % self.translated('workspaces'),
-            'Link "%s" seems to point to a wrong place.' % links[0].text_content())
+            'Link "%s" seems to point to a wrong place.' % workspaces_links[0].text_content())
+
+    def test_library_inline_link(self):
+        browser = Browser(self.layer['app'])
+        browser.handleErrors = False
+        browser.addHeader('Authorization', 'Basic %s:%s' % (
+                SITE_OWNER_NAME, SITE_OWNER_PASSWORD))
+
+        portal_url = self.layer['portal'].portal_url()
+        browser.open('/'.join((portal_url, self.translated('workplace'))))
+        doc = PyQuery(browser.contents)
+
+        links = doc('#content .sl-text-wrapper a')
+        library_links = filter(
+            lambda node: node.text_content() == self.translated('Library'),
+            links)
+
+        self.assertEquals(
+            len(library_links),
+            1,
+            'Expected one link "%s", but found: %s' % (
+                self.translated('Library'),
+                str(map(lambda node: node.text_content(), library_links))))
+
+        self.assertEquals(
+            library_links[0].get('href'),
+            '../%s' % self.translated('library'),
+            'Link "%s" seems to point to a wrong place.' % library_links[0].text_content())
