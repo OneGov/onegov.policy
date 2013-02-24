@@ -13,4 +13,6 @@ class TestBundleGerman(TestBundleEnglish):
         'workspaces': 'arbeitsraeume',
         'library': 'bibliothek',
         'Library': 'Bibliothek',
+        'billboard': 'anschlagbrett',
+        'Billboard': 'Anschlagbrett',
         }

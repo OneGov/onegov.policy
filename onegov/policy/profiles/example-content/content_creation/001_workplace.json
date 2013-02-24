@@ -25,7 +25,14 @@
                "_type": "Paragraph",
                "title:translate(onegov.policy.contentcreation)": "Library",
                "image:file": "images/library.png",
-               "text:translate(onegov.policy.contentcreation)": "<p><strong><a href=\"../library\">Library</a></strong><br />Create books and collaborate editing with a group of users.</p>"}
+               "text:translate(onegov.policy.contentcreation)": "<p><strong><a href=\"../library\">Library</a></strong><br />Create books and collaborate editing with a group of users.</p>"},
+
+
+              {"_id": "billboard",
+               "_type": "Paragraph",
+               "title:translate(onegov.policy.contentcreation)": "Billboard",
+               "image:file": "images/billboard.png",
+               "text:translate(onegov.policy.contentcreation)": "<p><strong><a href=\"../billboard\">Billboard</a></strong><br />Create books and collaborate editing with a group of users.</p>"}
 
 
           ]},
@@ -132,9 +139,35 @@
           "_constrain_types": {
               "locally": [],
               "immediately": []
-          }}
+          }},
 
 
+         {"_id:translate(onegov.policy.contentcreation)": "billboard",
+          "_type": "Folder",
+          "title:translate(onegov.policy.contentcreation)": "Billboard",
+          "_properties": {
+              "layout": ["string", "category_listing"]
+          },
+          "_constrain_types": {
+              "locally": ["BillboardCategory"],
+              "immediately": ["BillboardCategory"]
+          },
+          "_children": [
+
+
+              {"_id:translate(onegov.policy.contentcreation)": "for-sale",
+               "title:translate(onegov.policy.contentcreation)": "For sale",
+               "_type": "BillboardCategory"},
+
+              {"_id:translate(onegov.policy.contentcreation)": "for-rent",
+               "title:translate(onegov.policy.contentcreation)": "For rent",
+               "_type": "BillboardCategory"},
+
+              {"_id:translate(onegov.policy.contentcreation)": "to-give-away",
+               "title:translate(onegov.policy.contentcreation)": "To give away",
+               "_type": "BillboardCategory"}
+
+
+          ]}
      ]}
-
 ]

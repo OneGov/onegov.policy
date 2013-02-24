@@ -35,7 +35,22 @@ msgstr ""
 msgid "<p>The association certifies the software modules as well as the manufacturers of OneGov box. For you that means:<ul><li>Quality first-hand</li><li>Safety in the use of the software</li><li>Continuity in the products used</li><li>Part of a strong community</li></ul>"
 msgstr ""
 
+msgid "to-give-away"
+msgstr ""
+
+msgid "billboard"
+msgstr ""
+
+msgid "<p><strong><a href=\"../billboard\">Billboard</a></strong><br />Create books and collaborate editing with a group of users.</p>"
+msgstr ""
+
 msgid "Workspaces"
+msgstr ""
+
+msgid "for-sale"
+msgstr ""
+
+msgid "for-rent"
 msgstr ""
 
 msgid "<p><strong><a href=\"../library\">Library</a></strong><br />Create books and collaborate editing with a group of users.</p>"
@@ -47,13 +62,25 @@ msgstr ""
 msgid "example-workspace"
 msgstr ""
 
+msgid "To give away"
+msgstr ""
+
 msgid "workspaces"
 msgstr ""
 
 msgid "<p><strong><a href=\"../workspaces\">Workspaces</a></strong><br />Create a workspace for collaborating with other users in a project. Store your files and manage your meetings.</p>"
 msgstr ""
 
-msgid "Workplace"
+msgid "For rent"
+msgstr ""
+
+msgid "Billboard"
+msgstr ""
+
+msgid "<p>The book module allows you to create books with a consistent layout and collaborate with other editors. It allows you to grant permissions on each chapter and delegate responsiblity. Getting a high quality PDF of the book is easy: just hit the PDF button.</p>"
+msgstr ""
+
+msgid "For sale"
 msgstr ""
 
 msgid "Overview"
@@ -83,5 +110,5 @@ msgstr ""
 msgid "Quality"
 msgstr ""
 
-msgid "<p>The book module allows you to create books with a consistent layout and collaborate with other editors. It allows you to grant permissions on each chapter and delegate responsiblity. Getting a high quality PDF of the book is easy: just hit the PDF button.</p>"
+msgid "Workplace"
 msgstr ""

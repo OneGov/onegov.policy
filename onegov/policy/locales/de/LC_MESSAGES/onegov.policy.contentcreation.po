@@ -10,6 +10,9 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0\n"
 "Preferred-Encodings: utf-8 latin1\n"
 
+msgid "<p><strong><a href=\"../billboard\">Billboard</a></strong><br />Create books and collaborate editing with a group of users.</p>"
+msgstr "<p><strong><a href=\"../anschlagbrett\">Anschlagbrett</a></strong><br />Suchen Sie eine Wohnung, haben Sie etwas zu verkaufen? Das Anschlagbrett ist der digitaler Marktplatz.</p>"
+
 msgid "<p><strong><a href=\"../library\">Library</a></strong><br />Create books and collaborate editing with a group of users.</p>"
 msgstr "<p><strong><a href=\"../bibliothek\">Bibliothek</a></strong><br />Im Modul &laquo;Buch&raquo; erstellen mehrere Autorinnen und Autoren zentral Publikationen. Die einzelnen Kapitel k&ouml;nnen unabh&auml;ngig voneinander bearbeitet werden.</p>"
 
@@ -25,6 +28,9 @@ msgstr "<p>Der Verein OneGov.ch zertifiziert die Software-Module sowie die Herst
 msgid "<p>The book module allows you to create books with a consistent layout and collaborate with other editors. It allows you to grant permissions on each chapter and delegate responsiblity. Getting a high quality PDF of the book is easy: just hit the PDF button.</p>"
 msgstr "<p>Das Modul &laquo;Buch&raquo; ermöglicht es Ihnen, Bücher einfach zu erstellen. Durch das Trennen von Präsentation und Inhalt hat Ihr Buch ein konsistentes Erscheinungsbild. Indem Sie pro Kapitel Berechtigungen vergeben können Sie einfach Bereiche an andere Redaktore verteilen. Schlussendlich erhalten Sie mit Klick auf \"PDF\" ein qualitativ hochwertiges PDF - bereit zum Druck.</p>"
 
+msgid "Billboard"
+msgstr "Anschlagbrett"
+
 msgid "Conference Room 1"
 msgstr "Sitzungszimmer 1"
 
@@ -33,6 +39,12 @@ msgstr "Beispiel Arbeitsraum"
 
 msgid "Flower"
 msgstr "Blume"
+
+msgid "For rent"
+msgstr "Zu vermieten"
+
+msgid "For sale"
+msgstr "Zu verkaufen"
 
 msgid "Library"
 msgstr "Bibliothek"
@@ -55,6 +67,9 @@ msgstr "Projektsitzung"
 msgid "Quality"
 msgstr "Qualität"
 
+msgid "To give away"
+msgstr "Zu verschenken"
+
 msgid "User manual"
 msgstr "Benutzerhandbuch"
 
@@ -64,14 +79,26 @@ msgstr "Arbeitsplatz"
 msgid "Workspaces"
 msgstr "Arbeitsräume"
 
+msgid "billboard"
+msgstr "anschlagbrett"
+
 msgid "example-workspace"
 msgstr "beispiel-arbeitsraum"
+
+msgid "for-rent"
+msgstr "zu-vermieten"
+
+msgid "for-sale"
+msgstr "zu-verkaufen"
 
 msgid "library"
 msgstr "bibliothek"
 
 msgid "project-meeting"
 msgstr "projektsitzung"
+
+msgid "to-give-away"
+msgstr "zu-verschenken"
 
 msgid "workplace"
 msgstr "arbeitsplatz"
