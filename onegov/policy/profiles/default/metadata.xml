@@ -30,6 +30,7 @@
         <dependency>profile-ftw.upgrade:default</dependency>
         <dependency>profile-ftw.tabbedview:extjs</dependency>
         <dependency>profile-ftw.contentpage:default</dependency>
+        <dependency>profile-ftw.topics:default</dependency>
     </dependencies>
 
 </metadata>

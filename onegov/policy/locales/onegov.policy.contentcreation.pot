@@ -17,19 +17,31 @@ msgstr ""
 "Preferred-Encodings: utf-8 latin1\n"
 "Domain: onegov.policy.contentcreation\n"
 
+msgid "Velo und Fussgänger"
+msgstr ""
+
 msgid "Flower"
 msgstr ""
 
-msgid "OneGov Box"
+msgid "Auflösen"
 msgstr ""
 
-msgid "Project meeting"
+msgid "umweltschutz"
 msgstr ""
 
-msgid "Pictures"
+msgid "Gründen, Umstrukturieren und Auflösen"
 msgstr ""
 
-msgid "library"
+msgid "Grossbauvorhaben"
+msgstr ""
+
+msgid "verkehr"
+msgstr ""
+
+msgid "Grundbuch"
+msgstr ""
+
+msgid "behinderung"
 msgstr ""
 
 msgid "<p>The association certifies the software modules as well as the manufacturers of OneGov box. For you that means:<ul><li>Quality first-hand</li><li>Safety in the use of the software</li><li>Continuity in the products used</li><li>Part of a strong community</li></ul>"
@@ -38,31 +50,823 @@ msgstr ""
 msgid "to-give-away"
 msgstr ""
 
-msgid "billboard"
+msgid "archive-und-bibliotheken"
 msgstr ""
 
-msgid "<p><strong><a href=\"../billboard\">Billboard</a></strong><br />Create books and collaborate editing with a group of users.</p>"
+msgid "Boden, Natur und Landschaft"
+msgstr ""
+
+msgid "Laufbahnplanung"
+msgstr ""
+
+msgid "lebensmittelsicherheit"
+msgstr ""
+
+msgid "Businessevents"
+msgstr ""
+
+msgid "umstrukturieren"
+msgstr ""
+
+msgid "Alter"
+msgstr ""
+
+msgid "feuerwehr"
 msgstr ""
 
 msgid "Workspaces"
 msgstr ""
 
+msgid "schiff"
+msgstr ""
+
+msgid "zivilstand"
+msgstr ""
+
+msgid "Archive und Bibliotheken"
+msgstr ""
+
+msgid "Umwelt und Bauen"
+msgstr ""
+
+msgid "bildung"
+msgstr ""
+
+msgid "immobilien"
+msgstr ""
+
+msgid "grundeigentum"
+msgstr ""
+
+msgid "Kulturförderung"
+msgstr ""
+
+msgid "Umstrukturieren"
+msgstr ""
+
 msgid "for-sale"
 msgstr ""
 
-msgid "for-rent"
+msgid "Familie"
 msgstr ""
 
-msgid "<p><strong><a href=\"../library\">Library</a></strong><br />Create books and collaborate editing with a group of users.</p>"
+msgid "Gewässerschutz"
+msgstr ""
+
+msgid "adoption"
+msgstr ""
+
+msgid "zivilschutz"
+msgstr ""
+
+msgid "umwelt-und-verkehr"
+msgstr ""
+
+msgid "familienerganzende-kinderbetreuung"
+msgstr ""
+
+msgid "netzwerk"
+msgstr ""
+
+msgid "offentlicher-verkehr"
 msgstr ""
 
 msgid "OneGov Box - simple - secure - modular"
 msgstr ""
 
-msgid "example-workspace"
+msgid "Zivilschutz"
 msgstr ""
 
 msgid "To give away"
+msgstr ""
+
+msgid "Bauen und Submissionen"
+msgstr ""
+
+msgid "Berufsbildung"
+msgstr ""
+
+msgid "pensionierung"
+msgstr ""
+
+msgid "AHV / IV"
+msgstr ""
+
+msgid "Wirtschaftsförderung und -pflege"
+msgstr ""
+
+msgid "Betreibung und Konkurs"
+msgstr ""
+
+msgid "motorfahrzeuge"
+msgstr ""
+
+msgid "Verwaltungsrechtspflege"
+msgstr ""
+
+msgid "auflosen"
+msgstr ""
+
+msgid "innovation"
+msgstr ""
+
+msgid "auslanderinnen-und-auslander"
+msgstr ""
+
+msgid "For rent"
+msgstr ""
+
+msgid "offentliche-bauprojekte"
+msgstr ""
+
+msgid "arbeitsmarkt"
+msgstr ""
+
+msgid "arbeitgebende"
+msgstr ""
+
+msgid "Abfall"
+msgstr ""
+
+msgid "Schutz und Sicherheit"
+msgstr ""
+
+msgid "Luft und Klima"
+msgstr ""
+
+msgid "rettungsdienst"
+msgstr ""
+
+msgid "Privatschulen"
+msgstr ""
+
+msgid "Zivilrechtspflege"
+msgstr ""
+
+msgid "wirtschaftsforderung"
+msgstr ""
+
+msgid "Freizeitsport"
+msgstr ""
+
+msgid "standort-und-steuern"
+msgstr ""
+
+msgid "Steuern"
+msgstr ""
+
+msgid "Gleichstellung von Frau und Mann"
+msgstr ""
+
+msgid "Umweltschutz"
+msgstr ""
+
+msgid "Overview"
+msgstr ""
+
+msgid "unternehmen"
+msgstr ""
+
+msgid "militar"
+msgstr ""
+
+msgid "staat-und-recht"
+msgstr ""
+
+msgid "strafrechtspflege"
+msgstr ""
+
+msgid "Justiz"
+msgstr ""
+
+msgid "Tourismus"
+msgstr ""
+
+msgid "Pensionierung"
+msgstr ""
+
+msgid "gesundheit-und-soziales"
+msgstr ""
+
+msgid "vormundschaft"
+msgstr ""
+
+msgid "Sport"
+msgstr ""
+
+msgid "Immobilien"
+msgstr ""
+
+msgid "zivilrechtspflege"
+msgstr ""
+
+msgid "kinder-und-jugendliche"
+msgstr ""
+
+msgid "freizeitsport"
+msgstr ""
+
+msgid "Kinder und Jugendliche"
+msgstr ""
+
+msgid "Schiff"
+msgstr ""
+
+msgid "Sucht"
+msgstr ""
+
+msgid "todesfall"
+msgstr ""
+
+msgid "sozialversicherung"
+msgstr ""
+
+msgid "stiftungen"
+msgstr ""
+
+msgid "Innovation"
+msgstr ""
+
+msgid "einburgerung"
+msgstr ""
+
+msgid "library"
+msgstr ""
+
+msgid "Adoption"
+msgstr ""
+
+msgid "Library"
+msgstr ""
+
+msgid "billboard"
+msgstr ""
+
+msgid "sport"
+msgstr ""
+
+msgid "datenschutz"
+msgstr ""
+
+msgid "strasse"
+msgstr ""
+
+msgid "<p><strong><a href=\"../billboard\">Billboard</a></strong><br />Create books and collaborate editing with a group of users.</p>"
+msgstr ""
+
+msgid "polizei"
+msgstr ""
+
+msgid "grunden-umstrukturieren-und-auflosen"
+msgstr ""
+
+msgid "Mitarbeitende"
+msgstr ""
+
+msgid "sucht"
+msgstr ""
+
+msgid "abstimmungen-und-wahlen"
+msgstr ""
+
+msgid "Motorfahrzeuge"
+msgstr ""
+
+msgid "Verkehr"
+msgstr ""
+
+msgid "Arbeitnehmende"
+msgstr ""
+
+msgid "bildungsprojekte"
+msgstr ""
+
+msgid "berufswahl-studium-und-laufbahn"
+msgstr ""
+
+msgid "mitarbeitende"
+msgstr ""
+
+msgid "laufbahnplanung"
+msgstr ""
+
+msgid "Arbeitskonflikt"
+msgstr ""
+
+msgid "energie"
+msgstr ""
+
+msgid "umweltbelastungen"
+msgstr ""
+
+msgid "Geodaten & GIS"
+msgstr ""
+
+msgid "betreibung-und-konkurs"
+msgstr ""
+
+msgid "Arbeitsvermittlung und Personalverleih"
+msgstr ""
+
+msgid "Gesetze"
+msgstr ""
+
+msgid "alter"
+msgstr ""
+
+msgid "larm"
+msgstr ""
+
+msgid "Lärm"
+msgstr ""
+
+msgid "submissionen"
+msgstr ""
+
+msgid "Staat und Recht"
+msgstr ""
+
+msgid "Notvorrat"
+msgstr ""
+
+msgid "Einbürgerung"
+msgstr ""
+
+msgid "Submissionen"
+msgstr ""
+
+msgid "wirtschaftsstandort"
+msgstr ""
+
+msgid "Kino"
+msgstr ""
+
+msgid "notfall"
+msgstr ""
+
+msgid "Berufliche Selbständigkeit"
+msgstr ""
+
+msgid "grundbuch"
+msgstr ""
+
+msgid "Arbeitslosigkeit"
+msgstr ""
+
+msgid "Kultur für Kinder"
+msgstr ""
+
+msgid "mobilitat"
+msgstr ""
+
+msgid "boden-natur-und-landschaft"
+msgstr ""
+
+msgid "Handelsregister"
+msgstr ""
+
+msgid "Gesundheit und Soziales"
+msgstr ""
+
+msgid "<p>The book module allows you to create books with a consistent layout and collaborate with other editors. It allows you to grant permissions on each chapter and delegate responsiblity. Getting a high quality PDF of the book is easy: just hit the PDF button.</p>"
+msgstr ""
+
+msgid "grunden"
+msgstr ""
+
+msgid "Lehrstellen"
+msgstr ""
+
+msgid "Abstimmungen und Wahlen"
+msgstr ""
+
+msgid "bauen-und-submissionen"
+msgstr ""
+
+msgid "feiertage"
+msgstr ""
+
+msgid "ausweise-und-bescheinigungen"
+msgstr ""
+
+msgid "gleichstellung-von-frau-und-mann"
+msgstr ""
+
+msgid "Brückenangebote"
+msgstr ""
+
+msgid "wirtschaft-und-arbeit"
+msgstr ""
+
+msgid "Geoinformationen"
+msgstr ""
+
+msgid "Freizeit"
+msgstr ""
+
+msgid "Private"
+msgstr ""
+
+msgid "Conference Room 1"
+msgstr ""
+
+msgid "bruckenangebote"
+msgstr ""
+
+msgid "arbeitslosigkeit"
+msgstr ""
+
+msgid "Gerichte"
+msgstr ""
+
+msgid "personal"
+msgstr ""
+
+msgid "tiere"
+msgstr ""
+
+msgid "workplace"
+msgstr ""
+
+msgid "grossbauvorhaben"
+msgstr ""
+
+msgid "Konfessionen"
+msgstr ""
+
+msgid "Tiere"
+msgstr ""
+
+msgid "Strasse"
+msgstr ""
+
+msgid "Statistik"
+msgstr ""
+
+msgid "Feuerwehr"
+msgstr ""
+
+msgid "Workplace"
+msgstr ""
+
+msgid "ahv-iv"
+msgstr ""
+
+msgid "Arbeitsmarkt"
+msgstr ""
+
+msgid "krankheit-und-unfall"
+msgstr ""
+
+msgid "interessenvertretung"
+msgstr ""
+
+msgid "Pictures"
+msgstr ""
+
+msgid "Bildung"
+msgstr ""
+
+msgid "Bildungsprojekte"
+msgstr ""
+
+msgid "Chemie und Gifte"
+msgstr ""
+
+msgid "private"
+msgstr ""
+
+msgid "raumplanung"
+msgstr ""
+
+msgid "landwirtschaft"
+msgstr ""
+
+msgid "umwelt-und-bauen"
+msgstr ""
+
+msgid "Lebensmittelsicherheit"
+msgstr ""
+
+msgid "kulturforderung"
+msgstr ""
+
+msgid "deponien"
+msgstr ""
+
+msgid "museen"
+msgstr ""
+
+msgid "weiterbildung"
+msgstr ""
+
+msgid "Heime"
+msgstr ""
+
+msgid "Bauland"
+msgstr ""
+
+msgid "wirtschaftsforderung-und-pflege"
+msgstr ""
+
+msgid "Steuern Private"
+msgstr ""
+
+msgid "velo-und-fussganger"
+msgstr ""
+
+msgid "Zivilstand"
+msgstr ""
+
+msgid "Musikschulen"
+msgstr ""
+
+msgid "gesetze"
+msgstr ""
+
+msgid "Mobilität"
+msgstr ""
+
+msgid "ombudsstellen"
+msgstr ""
+
+msgid "Interessenvertretung"
+msgstr ""
+
+msgid "for-rent"
+msgstr ""
+
+msgid "werwaltungsrechtspflege"
+msgstr ""
+
+msgid "arbeitnehmende"
+msgstr ""
+
+msgid "Arbeitgebende"
+msgstr ""
+
+msgid "archaologie"
+msgstr ""
+
+msgid "Jugendkultur"
+msgstr ""
+
+msgid "Mittelschulen"
+msgstr ""
+
+msgid "Ausweise und Bescheinigungen"
+msgstr ""
+
+msgid "lebensmittel"
+msgstr ""
+
+msgid "businessevents"
+msgstr ""
+
+msgid "Bauen"
+msgstr ""
+
+msgid "arbeitskonflikt"
+msgstr ""
+
+msgid "Steuern Unternehmen"
+msgstr ""
+
+msgid "Schlichtungsstellen"
+msgstr ""
+
+msgid "Justizvollzug"
+msgstr ""
+
+msgid "Versicherungen"
+msgstr ""
+
+msgid "brandschutz"
+msgstr ""
+
+msgid "familie"
+msgstr ""
+
+msgid "Geburt"
+msgstr ""
+
+msgid "Persönliches"
+msgstr ""
+
+msgid "Notorganisation"
+msgstr ""
+
+msgid "schlichtungsstellen"
+msgstr ""
+
+msgid "Vormundschaft"
+msgstr ""
+
+msgid "Bühnen"
+msgstr ""
+
+msgid "Denkmal"
+msgstr ""
+
+msgid "mittelschulen"
+msgstr ""
+
+msgid "Stiftungen"
+msgstr ""
+
+msgid "Feiertage"
+msgstr ""
+
+msgid "gewalt"
+msgstr ""
+
+msgid "berufsbildung"
+msgstr ""
+
+msgid "bauen"
+msgstr ""
+
+msgid "Spitäler und Kliniken"
+msgstr ""
+
+msgid "kino"
+msgstr ""
+
+msgid "gesundheit"
+msgstr ""
+
+msgid "justizvollzug"
+msgstr ""
+
+msgid "Berufswahl, Studium und Laufbahn"
+msgstr ""
+
+msgid "stipendien"
+msgstr ""
+
+msgid "chemie-und-gifte"
+msgstr ""
+
+msgid "Landwirtschaft"
+msgstr ""
+
+msgid "Ausländerinnen und Ausländer"
+msgstr ""
+
+msgid "sicherheit"
+msgstr ""
+
+msgid "luft-und-klima"
+msgstr ""
+
+msgid "User manual"
+msgstr ""
+
+msgid "Sozialversicherung"
+msgstr ""
+
+msgid "Billboard"
+msgstr ""
+
+msgid "Museen"
+msgstr ""
+
+msgid "Datenschutz"
+msgstr ""
+
+msgid "privatschulen"
+msgstr ""
+
+msgid "buhnen"
+msgstr ""
+
+msgid "bauland"
+msgstr ""
+
+msgid "wohnen-und-umziehen"
+msgstr ""
+
+msgid "geburt"
+msgstr ""
+
+msgid "OneGov Box"
+msgstr ""
+
+msgid "freizeit"
+msgstr ""
+
+msgid "Project meeting"
+msgstr ""
+
+msgid "Personal"
+msgstr ""
+
+msgid "arbeitsvermittlung-und-personalverleih"
+msgstr ""
+
+msgid "Veranstaltungen"
+msgstr ""
+
+msgid "Familienergänzende Kinderbetreuung"
+msgstr ""
+
+msgid "Kultur, Sport und Tourismus"
+msgstr ""
+
+msgid "schutz-und-sicherheit"
+msgstr ""
+
+msgid "Netzwerk"
+msgstr ""
+
+msgid "Archäologie"
+msgstr ""
+
+msgid "berufliche-selbstandigkeit"
+msgstr ""
+
+msgid "Wohnen und Umziehen"
+msgstr ""
+
+msgid "tourismus"
+msgstr ""
+
+msgid "Umweltbelastungen"
+msgstr ""
+
+msgid "konfessionen"
+msgstr ""
+
+msgid "Öffentliche Bauprojekte"
+msgstr ""
+
+msgid "Gründen"
+msgstr ""
+
+msgid "Raumplanung"
+msgstr ""
+
+msgid "Stipendien"
+msgstr ""
+
+msgid "gewasserschutz"
+msgstr ""
+
+msgid "Lebensmittel"
+msgstr ""
+
+msgid "gerichte"
+msgstr ""
+
+msgid "heime"
+msgstr ""
+
+msgid "Energie"
+msgstr ""
+
+msgid "justiz"
+msgstr ""
+
+msgid "Deponien"
+msgstr ""
+
+msgid "veranstaltungen"
+msgstr ""
+
+msgid "Notfall"
+msgstr ""
+
+msgid "Sozialhilfe"
+msgstr ""
+
+msgid "notorganisation"
+msgstr ""
+
+msgid "Strafrechtspflege"
+msgstr ""
+
+msgid "Brandschutz"
+msgstr ""
+
+msgid "handelsregister"
+msgstr ""
+
+msgid "hohere-fachschulen-und-fachhochschulen"
+msgstr ""
+
+msgid "Rettungsdienst"
+msgstr ""
+
+msgid "Umwelt und Verkehr"
+msgstr ""
+
+msgid "Standort und Steuern"
+msgstr ""
+
+msgid "example-workspace"
+msgstr ""
+
+msgid "Gewalt"
 msgstr ""
 
 msgid "workspaces"
@@ -71,37 +875,112 @@ msgstr ""
 msgid "<p><strong><a href=\"../workspaces\">Workspaces</a></strong><br />Create a workspace for collaborating with other users in a project. Store your files and manage your meetings.</p>"
 msgstr ""
 
-msgid "For rent"
+msgid "geoinformationen"
 msgstr ""
 
-msgid "Billboard"
+msgid "musikschulen"
 msgstr ""
 
-msgid "<p>The book module allows you to create books with a consistent layout and collaborate with other editors. It allows you to grant permissions on each chapter and delegate responsiblity. Getting a high quality PDF of the book is easy: just hit the PDF button.</p>"
+msgid "Wirtschaft und Arbeit"
+msgstr ""
+
+msgid "Gesundheit"
+msgstr ""
+
+msgid "sozialhilfe"
+msgstr ""
+
+msgid "kultur-sport-und-tourismus"
+msgstr ""
+
+msgid "Höhere Fachschulen und Fachhochschulen"
+msgstr ""
+
+msgid "Obligatorische Schulzeit"
+msgstr ""
+
+msgid "abfall"
+msgstr ""
+
+msgid "Krankheit und Unfall"
+msgstr ""
+
+msgid "Arbeitssicherheit"
+msgstr ""
+
+msgid "Sicherheit"
+msgstr ""
+
+msgid "Ombudsstellen"
 msgstr ""
 
 msgid "For sale"
 msgstr ""
 
-msgid "Overview"
+msgid "steuern"
 msgstr ""
 
-msgid "Conference Room 1"
+msgid "jugendkultur"
+msgstr ""
+
+msgid "Unternehmen"
+msgstr ""
+
+msgid "Polizei"
+msgstr ""
+
+msgid "kultur-fur-kinder"
+msgstr ""
+
+msgid "obligatorische-schulzeit"
+msgstr ""
+
+msgid "notvorrat"
+msgstr ""
+
+msgid "spitaler-und-kliniken"
+msgstr ""
+
+msgid "Wirtschaftsförderung"
+msgstr ""
+
+msgid "Grundeigentum"
+msgstr ""
+
+msgid "Öffentlicher Verkehr"
 msgstr ""
 
 msgid "project-meeting"
 msgstr ""
 
-msgid "Library"
+msgid "versicherungen"
 msgstr ""
 
-msgid "workplace"
+msgid "Todesfall"
 msgstr ""
 
-msgid "User manual"
+msgid "Behinderung"
+msgstr ""
+
+msgid "Wirtschaftsstandort"
+msgstr ""
+
+msgid "arbeitssicherheit"
+msgstr ""
+
+msgid "Militär"
+msgstr ""
+
+msgid "<p><strong><a href=\"../library\">Library</a></strong><br />Create books and collaborate editing with a group of users.</p>"
 msgstr ""
 
 msgid "Example Workspace"
+msgstr ""
+
+msgid "lehrstellen"
+msgstr ""
+
+msgid "Weiterbildung"
 msgstr ""
 
 msgid "<p><strong>The basis for efficient e-government and e-business</strong><br />Intranet, extranet and internet in a safe, uniform and consistent designed system: this is OneGov Box - the powerful tool for government agencies and businesses. The modular system is easy to use, can be easily and quickly adapted to the growing needs of users as well as the challenges of the future. A powerful, versatile tool that grows with you.</p><p><strong>An extendable collaboration platform with many features</strong><br />It networks and integrates people and organizations inside and outside the goverment agency or company. The various modules and tools facilitate internal and external collaboration, and support the efficient and reliable communication with your customers and partners.</p>"
@@ -110,5 +989,8 @@ msgstr ""
 msgid "Quality"
 msgstr ""
 
-msgid "Workplace"
+msgid "statistik"
+msgstr ""
+
+msgid "personliches"
 msgstr ""

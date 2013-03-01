@@ -28,6 +28,13 @@
                   onegov.policy:example-content"
         />
 
+    <inflator:bundle
+        title="OneGov municipality"
+        description="Setup a OneGov Box for a municipality."
+        profiles="ftw.inflator:setup-language
+                  onegov.policy:municipality-content"
+        />
+
     <genericsetup:registerProfile
         name="default"
         title="onegov.policy : default"
@@ -40,6 +47,14 @@
         name="example-content"
         title="onegov.policy : example-content"
         directory="profiles/example-content"
+        description=""
+        provides="Products.GenericSetup.interfaces.EXTENSION"
+        />
+
+    <genericsetup:registerProfile
+        name="municipality-content"
+        title="onegov.policy : municipality-content"
+        directory="profiles/municipality-content"
         description=""
         provides="Products.GenericSetup.interfaces.EXTENSION"
         />

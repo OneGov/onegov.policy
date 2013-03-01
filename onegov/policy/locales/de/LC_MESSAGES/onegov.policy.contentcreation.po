@@ -28,14 +28,140 @@ msgstr "<p>Der Verein OneGov.ch zertifiziert die Software-Module sowie die Herst
 msgid "<p>The book module allows you to create books with a consistent layout and collaborate with other editors. It allows you to grant permissions on each chapter and delegate responsiblity. Getting a high quality PDF of the book is easy: just hit the PDF button.</p>"
 msgstr "<p>Das Modul &laquo;Buch&raquo; ermöglicht es Ihnen, Bücher einfach zu erstellen. Durch das Trennen von Präsentation und Inhalt hat Ihr Buch ein konsistentes Erscheinungsbild. Indem Sie pro Kapitel Berechtigungen vergeben können Sie einfach Bereiche an andere Redaktore verteilen. Schlussendlich erhalten Sie mit Klick auf \"PDF\" ein qualitativ hochwertiges PDF - bereit zum Druck.</p>"
 
+msgid "AHV / IV"
+msgstr ""
+
+msgid "Abfall"
+msgstr ""
+
+msgid "Abstimmungen und Wahlen"
+msgstr ""
+
+msgid "Adoption"
+msgstr ""
+
+msgid "Alter"
+msgstr ""
+
+msgid "Arbeitgebende"
+msgstr ""
+
+msgid "Arbeitnehmende"
+msgstr ""
+
+msgid "Arbeitskonflikt"
+msgstr ""
+
+msgid "Arbeitslosigkeit"
+msgstr ""
+
+msgid "Arbeitsmarkt"
+msgstr ""
+
+msgid "Arbeitssicherheit"
+msgstr ""
+
+msgid "Arbeitsvermittlung und Personalverleih"
+msgstr ""
+
+msgid "Archive und Bibliotheken"
+msgstr ""
+
+msgid "Archäologie"
+msgstr ""
+
+msgid "Auflösen"
+msgstr ""
+
+msgid "Ausländerinnen und Ausländer"
+msgstr ""
+
+msgid "Ausweise und Bescheinigungen"
+msgstr ""
+
+msgid "Bauen"
+msgstr ""
+
+msgid "Bauen und Submissionen"
+msgstr ""
+
+msgid "Bauland"
+msgstr ""
+
+msgid "Behinderung"
+msgstr ""
+
+msgid "Berufliche Selbständigkeit"
+msgstr ""
+
+msgid "Berufsbildung"
+msgstr ""
+
+msgid "Berufswahl, Studium und Laufbahn"
+msgstr ""
+
+msgid "Betreibung und Konkurs"
+msgstr ""
+
+msgid "Bildung"
+msgstr ""
+
+msgid "Bildungsprojekte"
+msgstr ""
+
 msgid "Billboard"
 msgstr "Anschlagbrett"
+
+msgid "Boden, Natur und Landschaft"
+msgstr ""
+
+msgid "Brandschutz"
+msgstr ""
+
+msgid "Brückenangebote"
+msgstr ""
+
+msgid "Businessevents"
+msgstr ""
+
+msgid "Bühnen"
+msgstr ""
+
+msgid "Chemie und Gifte"
+msgstr ""
 
 msgid "Conference Room 1"
 msgstr "Sitzungszimmer 1"
 
+msgid "Datenschutz"
+msgstr ""
+
+msgid "Denkmal"
+msgstr ""
+
+msgid "Deponien"
+msgstr ""
+
+msgid "Einbürgerung"
+msgstr ""
+
+msgid "Energie"
+msgstr ""
+
 msgid "Example Workspace"
 msgstr "Beispiel Arbeitsraum"
+
+msgid "Familie"
+msgstr ""
+
+msgid "Familienergänzende Kinderbetreuung"
+msgstr ""
+
+msgid "Feiertage"
+msgstr ""
+
+msgid "Feuerwehr"
+msgstr ""
 
 msgid "Flower"
 msgstr "Blume"
@@ -46,8 +172,167 @@ msgstr "Zu vermieten"
 msgid "For sale"
 msgstr "Zu verkaufen"
 
+msgid "Freizeit"
+msgstr ""
+
+msgid "Freizeitsport"
+msgstr ""
+
+msgid "Geburt"
+msgstr ""
+
+msgid "Geodaten & GIS"
+msgstr ""
+
+msgid "Geoinformationen"
+msgstr ""
+
+msgid "Gerichte"
+msgstr ""
+
+msgid "Gesetze"
+msgstr ""
+
+msgid "Gesundheit"
+msgstr ""
+
+msgid "Gesundheit und Soziales"
+msgstr ""
+
+msgid "Gewalt"
+msgstr ""
+
+msgid "Gewässerschutz"
+msgstr ""
+
+msgid "Gleichstellung von Frau und Mann"
+msgstr ""
+
+msgid "Grossbauvorhaben"
+msgstr ""
+
+msgid "Grundbuch"
+msgstr ""
+
+msgid "Grundeigentum"
+msgstr ""
+
+msgid "Gründen"
+msgstr ""
+
+msgid "Gründen, Umstrukturieren und Auflösen"
+msgstr ""
+
+msgid "Handelsregister"
+msgstr ""
+
+msgid "Heime"
+msgstr ""
+
+msgid "Höhere Fachschulen und Fachhochschulen"
+msgstr ""
+
+msgid "Immobilien"
+msgstr ""
+
+msgid "Innovation"
+msgstr ""
+
+msgid "Interessenvertretung"
+msgstr ""
+
+msgid "Jugendkultur"
+msgstr ""
+
+msgid "Justiz"
+msgstr ""
+
+msgid "Justizvollzug"
+msgstr ""
+
+msgid "Kinder und Jugendliche"
+msgstr ""
+
+msgid "Kino"
+msgstr ""
+
+msgid "Konfessionen"
+msgstr ""
+
+msgid "Krankheit und Unfall"
+msgstr ""
+
+msgid "Kultur für Kinder"
+msgstr ""
+
+msgid "Kultur, Sport und Tourismus"
+msgstr ""
+
+msgid "Kulturförderung"
+msgstr ""
+
+msgid "Landwirtschaft"
+msgstr ""
+
+msgid "Laufbahnplanung"
+msgstr ""
+
+msgid "Lebensmittel"
+msgstr ""
+
+msgid "Lebensmittelsicherheit"
+msgstr ""
+
+msgid "Lehrstellen"
+msgstr ""
+
 msgid "Library"
 msgstr "Bibliothek"
+
+msgid "Luft und Klima"
+msgstr ""
+
+msgid "Lärm"
+msgstr ""
+
+msgid "Militär"
+msgstr ""
+
+msgid "Mitarbeitende"
+msgstr ""
+
+msgid "Mittelschulen"
+msgstr ""
+
+msgid "Mobilität"
+msgstr ""
+
+msgid "Motorfahrzeuge"
+msgstr ""
+
+msgid "Museen"
+msgstr ""
+
+msgid "Musikschulen"
+msgstr ""
+
+msgid "Netzwerk"
+msgstr ""
+
+msgid "Notfall"
+msgstr ""
+
+msgid "Notorganisation"
+msgstr ""
+
+msgid "Notvorrat"
+msgstr ""
+
+msgid "Obligatorische Schulzeit"
+msgstr ""
+
+msgid "Ombudsstellen"
+msgstr ""
 
 msgid "OneGov Box"
 msgstr "OneGov Box"
@@ -58,8 +343,26 @@ msgstr "OneGov Box – einfach – sicher – modular"
 msgid "Overview"
 msgstr "Übersicht"
 
+msgid "Pensionierung"
+msgstr ""
+
+msgid "Personal"
+msgstr ""
+
+msgid "Persönliches"
+msgstr ""
+
 msgid "Pictures"
 msgstr "Bilder"
+
+msgid "Polizei"
+msgstr ""
+
+msgid "Private"
+msgstr ""
+
+msgid "Privatschulen"
+msgstr ""
 
 msgid "Project meeting"
 msgstr "Projektsitzung"
@@ -67,11 +370,140 @@ msgstr "Projektsitzung"
 msgid "Quality"
 msgstr "Qualität"
 
+msgid "Raumplanung"
+msgstr ""
+
+msgid "Rettungsdienst"
+msgstr ""
+
+msgid "Schiff"
+msgstr ""
+
+msgid "Schlichtungsstellen"
+msgstr ""
+
+msgid "Schutz und Sicherheit"
+msgstr ""
+
+msgid "Sicherheit"
+msgstr ""
+
+msgid "Sozialhilfe"
+msgstr ""
+
+msgid "Sozialversicherung"
+msgstr ""
+
+msgid "Spitäler und Kliniken"
+msgstr ""
+
+msgid "Sport"
+msgstr ""
+
+msgid "Staat und Recht"
+msgstr ""
+
+msgid "Standort und Steuern"
+msgstr ""
+
+msgid "Statistik"
+msgstr ""
+
+msgid "Steuern"
+msgstr ""
+
+msgid "Steuern Private"
+msgstr ""
+
+msgid "Steuern Unternehmen"
+msgstr ""
+
+msgid "Stiftungen"
+msgstr ""
+
+msgid "Stipendien"
+msgstr ""
+
+msgid "Strafrechtspflege"
+msgstr ""
+
+msgid "Strasse"
+msgstr ""
+
+msgid "Submissionen"
+msgstr ""
+
+msgid "Sucht"
+msgstr ""
+
+msgid "Tiere"
+msgstr ""
+
 msgid "To give away"
 msgstr "Zu verschenken"
 
+msgid "Todesfall"
+msgstr ""
+
+msgid "Tourismus"
+msgstr ""
+
+msgid "Umstrukturieren"
+msgstr ""
+
+msgid "Umwelt und Bauen"
+msgstr ""
+
+msgid "Umwelt und Verkehr"
+msgstr ""
+
+msgid "Umweltbelastungen"
+msgstr ""
+
+msgid "Umweltschutz"
+msgstr ""
+
+msgid "Unternehmen"
+msgstr ""
+
 msgid "User manual"
 msgstr "Benutzerhandbuch"
+
+msgid "Velo und Fussgänger"
+msgstr ""
+
+msgid "Veranstaltungen"
+msgstr ""
+
+msgid "Verkehr"
+msgstr ""
+
+msgid "Versicherungen"
+msgstr ""
+
+msgid "Verwaltungsrechtspflege"
+msgstr ""
+
+msgid "Vormundschaft"
+msgstr ""
+
+msgid "Weiterbildung"
+msgstr ""
+
+msgid "Wirtschaft und Arbeit"
+msgstr ""
+
+msgid "Wirtschaftsförderung"
+msgstr ""
+
+msgid "Wirtschaftsförderung und -pflege"
+msgstr ""
+
+msgid "Wirtschaftsstandort"
+msgstr ""
+
+msgid "Wohnen und Umziehen"
+msgstr ""
 
 msgid "Workplace"
 msgstr "Arbeitsplatz"
@@ -79,11 +511,143 @@ msgstr "Arbeitsplatz"
 msgid "Workspaces"
 msgstr "Arbeitsräume"
 
+msgid "Zivilrechtspflege"
+msgstr ""
+
+msgid "Zivilschutz"
+msgstr ""
+
+msgid "Zivilstand"
+msgstr ""
+
+msgid "abfall"
+msgstr ""
+
+msgid "abstimmungen-und-wahlen"
+msgstr ""
+
+msgid "adoption"
+msgstr ""
+
+msgid "ahv-iv"
+msgstr ""
+
+msgid "alter"
+msgstr ""
+
+msgid "arbeitgebende"
+msgstr ""
+
+msgid "arbeitnehmende"
+msgstr ""
+
+msgid "arbeitskonflikt"
+msgstr ""
+
+msgid "arbeitslosigkeit"
+msgstr ""
+
+msgid "arbeitsmarkt"
+msgstr ""
+
+msgid "arbeitssicherheit"
+msgstr ""
+
+msgid "arbeitsvermittlung-und-personalverleih"
+msgstr ""
+
+msgid "archaologie"
+msgstr ""
+
+msgid "archive-und-bibliotheken"
+msgstr ""
+
+msgid "auflosen"
+msgstr ""
+
+msgid "auslanderinnen-und-auslander"
+msgstr ""
+
+msgid "ausweise-und-bescheinigungen"
+msgstr ""
+
+msgid "bauen"
+msgstr ""
+
+msgid "bauen-und-submissionen"
+msgstr ""
+
+msgid "bauland"
+msgstr ""
+
+msgid "behinderung"
+msgstr ""
+
+msgid "berufliche-selbstandigkeit"
+msgstr ""
+
+msgid "berufsbildung"
+msgstr ""
+
+msgid "berufswahl-studium-und-laufbahn"
+msgstr ""
+
+msgid "betreibung-und-konkurs"
+msgstr ""
+
+msgid "bildung"
+msgstr ""
+
+msgid "bildungsprojekte"
+msgstr ""
+
 msgid "billboard"
 msgstr "anschlagbrett"
 
+msgid "boden-natur-und-landschaft"
+msgstr ""
+
+msgid "brandschutz"
+msgstr ""
+
+msgid "bruckenangebote"
+msgstr ""
+
+msgid "buhnen"
+msgstr ""
+
+msgid "businessevents"
+msgstr ""
+
+msgid "chemie-und-gifte"
+msgstr ""
+
+msgid "datenschutz"
+msgstr ""
+
+msgid "deponien"
+msgstr ""
+
+msgid "einburgerung"
+msgstr ""
+
+msgid "energie"
+msgstr ""
+
 msgid "example-workspace"
 msgstr "beispiel-arbeitsraum"
+
+msgid "familie"
+msgstr ""
+
+msgid "familienerganzende-kinderbetreuung"
+msgstr ""
+
+msgid "feiertage"
+msgstr ""
+
+msgid "feuerwehr"
+msgstr ""
 
 msgid "for-rent"
 msgstr "zu-vermieten"
@@ -91,17 +655,336 @@ msgstr "zu-vermieten"
 msgid "for-sale"
 msgstr "zu-verkaufen"
 
+msgid "freizeit"
+msgstr ""
+
+msgid "freizeitsport"
+msgstr ""
+
+msgid "geburt"
+msgstr ""
+
+msgid "geoinformationen"
+msgstr ""
+
+msgid "gerichte"
+msgstr ""
+
+msgid "gesetze"
+msgstr ""
+
+msgid "gesundheit"
+msgstr ""
+
+msgid "gesundheit-und-soziales"
+msgstr ""
+
+msgid "gewalt"
+msgstr ""
+
+msgid "gewasserschutz"
+msgstr ""
+
+msgid "gleichstellung-von-frau-und-mann"
+msgstr ""
+
+msgid "grossbauvorhaben"
+msgstr ""
+
+msgid "grundbuch"
+msgstr ""
+
+msgid "grundeigentum"
+msgstr ""
+
+msgid "grunden"
+msgstr ""
+
+msgid "grunden-umstrukturieren-und-auflosen"
+msgstr ""
+
+msgid "handelsregister"
+msgstr ""
+
+msgid "heime"
+msgstr ""
+
+msgid "hohere-fachschulen-und-fachhochschulen"
+msgstr ""
+
+msgid "immobilien"
+msgstr ""
+
+msgid "innovation"
+msgstr ""
+
+msgid "interessenvertretung"
+msgstr ""
+
+msgid "jugendkultur"
+msgstr ""
+
+msgid "justiz"
+msgstr ""
+
+msgid "justizvollzug"
+msgstr ""
+
+msgid "kinder-und-jugendliche"
+msgstr ""
+
+msgid "kino"
+msgstr ""
+
+msgid "konfessionen"
+msgstr ""
+
+msgid "krankheit-und-unfall"
+msgstr ""
+
+msgid "kultur-fur-kinder"
+msgstr ""
+
+msgid "kultur-sport-und-tourismus"
+msgstr ""
+
+msgid "kulturforderung"
+msgstr ""
+
+msgid "landwirtschaft"
+msgstr ""
+
+msgid "larm"
+msgstr ""
+
+msgid "laufbahnplanung"
+msgstr ""
+
+msgid "lebensmittel"
+msgstr ""
+
+msgid "lebensmittelsicherheit"
+msgstr ""
+
+msgid "lehrstellen"
+msgstr ""
+
 msgid "library"
 msgstr "bibliothek"
+
+msgid "luft-und-klima"
+msgstr ""
+
+msgid "militar"
+msgstr ""
+
+msgid "mitarbeitende"
+msgstr ""
+
+msgid "mittelschulen"
+msgstr ""
+
+msgid "mobilitat"
+msgstr ""
+
+msgid "motorfahrzeuge"
+msgstr ""
+
+msgid "museen"
+msgstr ""
+
+msgid "musikschulen"
+msgstr ""
+
+msgid "netzwerk"
+msgstr ""
+
+msgid "notfall"
+msgstr ""
+
+msgid "notorganisation"
+msgstr ""
+
+msgid "notvorrat"
+msgstr ""
+
+msgid "obligatorische-schulzeit"
+msgstr ""
+
+msgid "offentliche-bauprojekte"
+msgstr ""
+
+msgid "offentlicher-verkehr"
+msgstr ""
+
+msgid "ombudsstellen"
+msgstr ""
+
+msgid "pensionierung"
+msgstr ""
+
+msgid "personal"
+msgstr ""
+
+msgid "personliches"
+msgstr ""
+
+msgid "polizei"
+msgstr ""
+
+msgid "private"
+msgstr ""
+
+msgid "privatschulen"
+msgstr ""
 
 msgid "project-meeting"
 msgstr "projektsitzung"
 
+msgid "raumplanung"
+msgstr ""
+
+msgid "rettungsdienst"
+msgstr ""
+
+msgid "schiff"
+msgstr ""
+
+msgid "schlichtungsstellen"
+msgstr ""
+
+msgid "schutz-und-sicherheit"
+msgstr ""
+
+msgid "sicherheit"
+msgstr ""
+
+msgid "sozialhilfe"
+msgstr ""
+
+msgid "sozialversicherung"
+msgstr ""
+
+msgid "spitaler-und-kliniken"
+msgstr ""
+
+msgid "sport"
+msgstr ""
+
+msgid "staat-und-recht"
+msgstr ""
+
+msgid "standort-und-steuern"
+msgstr ""
+
+msgid "statistik"
+msgstr ""
+
+msgid "steuern"
+msgstr ""
+
+msgid "stiftungen"
+msgstr ""
+
+msgid "stipendien"
+msgstr ""
+
+msgid "strafrechtspflege"
+msgstr ""
+
+msgid "strasse"
+msgstr ""
+
+msgid "submissionen"
+msgstr ""
+
+msgid "sucht"
+msgstr ""
+
+msgid "tiere"
+msgstr ""
+
 msgid "to-give-away"
 msgstr "zu-verschenken"
+
+msgid "todesfall"
+msgstr ""
+
+msgid "tourismus"
+msgstr ""
+
+msgid "umstrukturieren"
+msgstr ""
+
+msgid "umwelt-und-bauen"
+msgstr ""
+
+msgid "umwelt-und-verkehr"
+msgstr ""
+
+msgid "umweltbelastungen"
+msgstr ""
+
+msgid "umweltschutz"
+msgstr ""
+
+msgid "unternehmen"
+msgstr ""
+
+msgid "velo-und-fussganger"
+msgstr ""
+
+msgid "veranstaltungen"
+msgstr ""
+
+msgid "verkehr"
+msgstr ""
+
+msgid "versicherungen"
+msgstr ""
+
+msgid "vormundschaft"
+msgstr ""
+
+msgid "weiterbildung"
+msgstr ""
+
+msgid "werwaltungsrechtspflege"
+msgstr ""
+
+msgid "wirtschaft-und-arbeit"
+msgstr ""
+
+msgid "wirtschaftsforderung"
+msgstr ""
+
+msgid "wirtschaftsforderung-und-pflege"
+msgstr ""
+
+msgid "wirtschaftsstandort"
+msgstr ""
+
+msgid "wohnen-und-umziehen"
+msgstr ""
 
 msgid "workplace"
 msgstr "arbeitsplatz"
 
 msgid "workspaces"
 msgstr "arbeitsraeume"
+
+msgid "zivilrechtspflege"
+msgstr ""
+
+msgid "zivilschutz"
+msgstr ""
+
+msgid "zivilstand"
+msgstr ""
+
+msgid "Öffentliche Bauprojekte"
+msgstr ""
+
+msgid "Öffentlicher Verkehr"
+msgstr ""
+
