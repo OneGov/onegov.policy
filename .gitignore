@@ -1,6 +1,8 @@
 *.egg-info
 *.mo
 *.pyc
+.DS_Store
+.Python
 .installed.cfg
 .mr.developer.cfg
 README.html
