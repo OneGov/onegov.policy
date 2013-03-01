@@ -27,6 +27,12 @@
                "image:file": "images/library.png",
                "text:translate(onegov.policy.contentcreation)": "<p><strong><a href=\"../library\">Library</a></strong><br />Create books and collaborate editing with a group of users.</p>"},
 
+               {"_id": "ticketboxes",
+                "_type": "Paragraph",
+                "title:translate(onegov.policy.contentcreation)": "TicketBoxes",
+                "image:file": "images/ticketbox.png",
+                "text:translate(onegov.policy.contentcreation)": "<p><strong><a href=\"../ticketboxes\">TicketBox</a> - Manage your daily tasks.</strong><br />The Module \"TicketBox\" provides a tool to manage daily tasks in your working group. Keep track of the progress of your project.</p>"},
+
 
               {"_id": "billboard",
                "_type": "Paragraph",
@@ -152,6 +158,16 @@
               "immediately": []
           }},
 
+         {"_id:translate(onegov.policy.contentcreation)": "ticketboxes",
+          "_type": "Folder",
+          "title:translate(onegov.policy.contentcreation)": "TicketBoxes",
+          "_properties": {
+              "layout": ["string", "ticketboxes_view"]
+          },
+          "_constrain_types": {
+              "locally": [],
+              "immediately": []
+          }},
 
          {"_id:translate(onegov.policy.contentcreation)": "billboard",
           "_type": "Folder",

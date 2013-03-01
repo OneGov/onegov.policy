@@ -16,6 +16,9 @@ msgstr "<p><strong><a href=\"../anschlagbrett\">Anschlagbrett</a></strong><br />
 msgid "<p><strong><a href=\"../library\">Library</a></strong><br />Create books and collaborate editing with a group of users.</p>"
 msgstr "<p><strong><a href=\"../bibliothek\">Bibliothek</a></strong><br />Im Modul &laquo;Buch&raquo; erstellen mehrere Autorinnen und Autoren zentral Publikationen. Die einzelnen Kapitel k&ouml;nnen unabh&auml;ngig voneinander bearbeitet werden.</p>"
 
+msgid "<p><strong><a href=\"../ticketboxes\">TicketBox</a> - Manage your daily tasks.</strong><br />The Module \"TicketBox\" provides a tool to manage daily tasks in your working group. Keep track of the progress of your project.</p>"
+msgstr "<p><strong><a href=\"../auftragsboxen\">Die Auftragsbox</a> - tägliche Arbeiten einfach verwalten</strong><br />Das Modul «Auftragsbox» bietet Ihnen die Möglichkeit, tägliche Aufgaben innerhalb eines Projektes oder einer Arbeitsgruppe schnell zu erstellen und zuzuweisen. Den Projektfortschritt behalten Sie stets im Auge.</p>"
+
 msgid "<p><strong><a href=\"../workspaces\">Workspaces</a></strong><br />Create a workspace for collaborating with other users in a project. Store your files and manage your meetings.</p>"
 msgstr "<p><strong><a href=\"../arbeitsraeume\">Arbeitsräume</a></strong><br />Das Modul «Arbeitsraum» ist ein virtueller Raum, in dem verschiedene Mitarbeitende mit entsprechender Berechtigung organisationsübergreifend zusammenarbeiten.</p>"
 
@@ -444,6 +447,9 @@ msgstr ""
 
 msgid "Ticket Box"
 msgstr "Auftragsbox"
+
+msgid "TicketBoxes"
+msgstr "Auftragsboxen"
 
 msgid "Tiere"
 msgstr ""
@@ -909,6 +915,9 @@ msgstr ""
 
 msgid "sucht"
 msgstr ""
+
+msgid "ticketboxes"
+msgstr "auftragsboxen"
 
 msgid "tiere"
 msgstr ""
