@@ -15,4 +15,6 @@ class TestBundleGerman(TestBundleEnglish):
         'Library': 'Bibliothek',
         'billboard': 'anschlagbrett',
         'Billboard': 'Anschlagbrett',
+        'ticketboxes': 'auftragsboxen',
+        'TicketBox': 'Die Auftragsbox',
         }
