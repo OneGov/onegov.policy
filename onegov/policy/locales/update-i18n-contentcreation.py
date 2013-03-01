@@ -78,6 +78,9 @@ with open(potfile_path, 'w+') as potfile:
                 r'"Domain: %s\n"' % DOMAIN)))
 
     for msgid in msgids:
+        if isinstance(msgid, unicode):
+            msgid = msgid.encode('utf-8')
+
         potfile.write('\n'.join((
                     '\n',
                     'msgid "%s"' % escape(msgid),
