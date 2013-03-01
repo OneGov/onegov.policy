@@ -44,7 +44,7 @@ msgstr ""
 msgid "behinderung"
 msgstr ""
 
-msgid "<p>The association certifies the software modules as well as the manufacturers of OneGov box. For you that means:<ul><li>Quality first-hand</li><li>Safety in the use of the software</li><li>Continuity in the products used</li><li>Part of a strong community</li></ul>"
+msgid "<p>The ticketbox module allows you to create tickets and assign them to users.</p>"
 msgstr ""
 
 msgid "to-give-away"
@@ -218,13 +218,16 @@ msgstr ""
 msgid "Gleichstellung von Frau und Mann"
 msgstr ""
 
-msgid "Umweltschutz"
+msgid "<p>The association certifies the software modules as well as the manufacturers of OneGov box. For you that means:<ul><li>Quality first-hand</li><li>Safety in the use of the software</li><li>Continuity in the products used</li><li>Part of a strong community</li></ul>"
 msgstr ""
 
 msgid "Overview"
 msgstr ""
 
 msgid "unternehmen"
+msgstr ""
+
+msgid "Umweltschutz"
 msgstr ""
 
 msgid "militar"
@@ -512,6 +515,9 @@ msgstr ""
 msgid "ahv-iv"
 msgstr ""
 
+msgid "Example Ticket"
+msgstr ""
+
 msgid "Arbeitsmarkt"
 msgstr ""
 
@@ -768,6 +774,9 @@ msgid "Veranstaltungen"
 msgstr ""
 
 msgid "Familienergänzende Kinderbetreuung"
+msgstr ""
+
+msgid "Ticket Box"
 msgstr ""
 
 msgid "Kultur, Sport und Tourismus"

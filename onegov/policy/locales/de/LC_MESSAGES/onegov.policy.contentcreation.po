@@ -28,6 +28,9 @@ msgstr "<p>Der Verein OneGov.ch zertifiziert die Software-Module sowie die Herst
 msgid "<p>The book module allows you to create books with a consistent layout and collaborate with other editors. It allows you to grant permissions on each chapter and delegate responsiblity. Getting a high quality PDF of the book is easy: just hit the PDF button.</p>"
 msgstr "<p>Das Modul &laquo;Buch&raquo; ermöglicht es Ihnen, Bücher einfach zu erstellen. Durch das Trennen von Präsentation und Inhalt hat Ihr Buch ein konsistentes Erscheinungsbild. Indem Sie pro Kapitel Berechtigungen vergeben können Sie einfach Bereiche an andere Redaktore verteilen. Schlussendlich erhalten Sie mit Klick auf \"PDF\" ein qualitativ hochwertiges PDF - bereit zum Druck.</p>"
 
+msgid "<p>The ticketbox module allows you to create tickets and assign them to users.</p>"
+msgstr "<p>In der Auftragsbox können sie Tickets erstellen und den entsprechenden Benutzern zuteilen.</p>"
+
 msgid "AHV / IV"
 msgstr ""
 
@@ -147,6 +150,9 @@ msgstr ""
 
 msgid "Energie"
 msgstr ""
+
+msgid "Example Ticket"
+msgstr "Beispielticket"
 
 msgid "Example Workspace"
 msgstr "Beispiel Arbeitsraum"
@@ -435,6 +441,9 @@ msgstr ""
 
 msgid "Sucht"
 msgstr ""
+
+msgid "Ticket Box"
+msgstr "Auftragsbox"
 
 msgid "Tiere"
 msgstr ""

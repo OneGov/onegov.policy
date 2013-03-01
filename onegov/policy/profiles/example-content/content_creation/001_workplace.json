@@ -122,6 +122,17 @@
 
                          ]}
 
+                    ]},
+
+                   {"_id": "ticketbox",
+                    "_type": "Ticket Box",
+                    "title:translate(onegov.policy.contentcreation)": "Ticket Box",
+                    "_children": [
+                        {"_id": "ticket-1",
+                         "_type": "Ticket",
+                         "title:translate(onegov.policy.contentcreation)": "Example Ticket",
+                         "description:translate(onegov.policy.contentcreation)": "<p>The ticketbox module allows you to create tickets and assign them to users.</p>"
+                        }
                     ]}
 
                ]}
