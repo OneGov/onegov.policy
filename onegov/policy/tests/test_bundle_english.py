@@ -62,3 +62,7 @@ class TestBundleEnglish(TestCase):
     def test_billboard_inline_link(self):
         self._workplace_inline_link_test(self.translated('billboard'),
                                          self.translated('Billboard'))
+
+    def test_ticketbox_inline_link(self):
+        self._workplace_inline_link_test(self.translated('ticketboxes'),
+                                         self.translated('TicketBox'))

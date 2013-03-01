@@ -44,7 +44,7 @@ msgstr ""
 msgid "behinderung"
 msgstr ""
 
-msgid "<p>The association certifies the software modules as well as the manufacturers of OneGov box. For you that means:<ul><li>Quality first-hand</li><li>Safety in the use of the software</li><li>Continuity in the products used</li><li>Part of a strong community</li></ul>"
+msgid "<p>The ticketbox module allows you to create tickets and assign them to users.</p>"
 msgstr ""
 
 msgid "to-give-away"
@@ -218,13 +218,16 @@ msgstr ""
 msgid "Gleichstellung von Frau und Mann"
 msgstr ""
 
-msgid "Umweltschutz"
+msgid "<p>The association certifies the software modules as well as the manufacturers of OneGov box. For you that means:<ul><li>Quality first-hand</li><li>Safety in the use of the software</li><li>Continuity in the products used</li><li>Part of a strong community</li></ul>"
 msgstr ""
 
 msgid "Overview"
 msgstr ""
 
 msgid "unternehmen"
+msgstr ""
+
+msgid "Umweltschutz"
 msgstr ""
 
 msgid "militar"
@@ -278,7 +281,7 @@ msgstr ""
 msgid "todesfall"
 msgstr ""
 
-msgid "sozialversicherung"
+msgid "Polizei"
 msgstr ""
 
 msgid "stiftungen"
@@ -512,6 +515,9 @@ msgstr ""
 msgid "ahv-iv"
 msgstr ""
 
+msgid "Example Ticket"
+msgstr ""
+
 msgid "Arbeitsmarkt"
 msgstr ""
 
@@ -602,6 +608,9 @@ msgstr ""
 msgid "arbeitnehmende"
 msgstr ""
 
+msgid "sozialversicherung"
+msgstr ""
+
 msgid "Arbeitgebende"
 msgstr ""
 
@@ -674,7 +683,7 @@ msgstr ""
 msgid "Stiftungen"
 msgstr ""
 
-msgid "Feiertage"
+msgid "ticketboxes"
 msgstr ""
 
 msgid "gewalt"
@@ -767,13 +776,19 @@ msgstr ""
 msgid "Veranstaltungen"
 msgstr ""
 
-msgid "Familienergänzende Kinderbetreuung"
+msgid "Umweltbelastungen"
+msgstr ""
+
+msgid "Ticket Box"
 msgstr ""
 
 msgid "Kultur, Sport und Tourismus"
 msgstr ""
 
 msgid "schutz-und-sicherheit"
+msgstr ""
+
+msgid "TicketBoxes"
 msgstr ""
 
 msgid "Netzwerk"
@@ -791,7 +806,7 @@ msgstr ""
 msgid "tourismus"
 msgstr ""
 
-msgid "Umweltbelastungen"
+msgid "Familienergänzende Kinderbetreuung"
 msgstr ""
 
 msgid "konfessionen"
@@ -807,6 +822,9 @@ msgid "Raumplanung"
 msgstr ""
 
 msgid "Stipendien"
+msgstr ""
+
+msgid "Feiertage"
 msgstr ""
 
 msgid "gewasserschutz"
@@ -926,7 +944,7 @@ msgstr ""
 msgid "Unternehmen"
 msgstr ""
 
-msgid "Polizei"
+msgid "<p><strong><a href=\"../ticketboxes\">TicketBox</a> - Manage your daily tasks.</strong><br />The Module \"TicketBox\" provides a tool to manage daily tasks in your working group. Keep track of the progress of your project.</p>"
 msgstr ""
 
 msgid "kultur-fur-kinder"
