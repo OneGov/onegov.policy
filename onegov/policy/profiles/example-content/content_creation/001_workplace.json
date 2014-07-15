@@ -15,27 +15,27 @@
 
 
               {"_id": "workspaces",
-               "_type": "Paragraph",
+               "_type": "TextBlock",
                "title:translate(onegov.policy.contentcreation)": "Workspaces",
                "image:file": "images/workspaces.png",
                "text:translate(onegov.policy.contentcreation)": "<p><strong><a href=\"../workspaces\">Workspaces</a></strong><br />Create a workspace for collaborating with other users in a project. Store your files and manage your meetings.</p>"},
 
 
               {"_id": "library",
-               "_type": "Paragraph",
+               "_type": "TextBlock",
                "title:translate(onegov.policy.contentcreation)": "Library",
                "image:file": "images/library.png",
                "text:translate(onegov.policy.contentcreation)": "<p><strong><a href=\"../library\">Library</a></strong><br />Create books and collaborate editing with a group of users.</p>"},
 
                {"_id": "ticketboxes",
-                "_type": "Paragraph",
+                "_type": "TextBlock",
                 "title:translate(onegov.policy.contentcreation)": "TicketBoxes",
                 "image:file": "images/ticketbox.png",
                 "text:translate(onegov.policy.contentcreation)": "<p><strong><a href=\"../ticketboxes\">TicketBox</a> - Manage your daily tasks.</strong><br />The Module \"TicketBox\" provides a tool to manage daily tasks in your working group. Keep track of the progress of your project.</p>"},
 
 
               {"_id": "billboard",
-               "_type": "Paragraph",
+               "_type": "TextBlock",
                "title:translate(onegov.policy.contentcreation)": "Billboard",
                "image:file": "images/billboard.png",
                "text:translate(onegov.policy.contentcreation)": "<p><strong><a href=\"../billboard\">Billboard</a></strong><br />Create books and collaborate editing with a group of users.</p>"}
@@ -122,7 +122,7 @@
                          "_children": [
 
                              {"_id": "overview-1",
-                              "_type": "Paragraph",
+                              "_type": "TextBlock",
                               "text:translate(onegov.policy.contentcreation)": "<p>The book module allows you to create books with a consistent layout and collaborate with other editors. It allows you to grant permissions on each chapter and delegate responsiblity. Getting a high quality PDF of the book is easy: just hit the PDF button.</p>"}
 
 

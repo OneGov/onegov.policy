@@ -65,7 +65,6 @@ class OneGovFixture(PloneFixture):
         z2.installProduct(app, 'ftwbook.graphicblock')
         z2.installProduct(app, 'izug.ticketbox')
         z2.installProduct(app, 'simplelayout.base')
-        z2.installProduct(app, 'simplelayout.types.common')
         z2.installProduct(app, 'simplelayout.ui.base')
         z2.installProduct(app, 'simplelayout.ui.dragndrop')
 

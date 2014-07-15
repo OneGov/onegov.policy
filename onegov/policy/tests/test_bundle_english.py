@@ -46,8 +46,8 @@ class TestBundleEnglish(TestCase):
                 str(map(lambda node: node.text_content(), filtered_links))))
 
         self.assertEquals(
+            '/'.join((browser.url, id_)),
             filtered_links[0].get('href'),
-            '../%s' % id_,
             'Link "%s" seems to point to a wrong place.' % filtered_links[0].text_content())
 
 
